@@ -42,9 +42,9 @@ img {
 
 .bl {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 1 200px;
-      -ms-flex: 1 1 200px;
-          flex: 1 1 200px;
+  -webkit-flex: 1 1 300px;
+      -ms-flex: 1 1 300px;
+          flex: 1 1 300px;
   text-align: center;
   display: -webkit-box;
   display: -webkit-flex;
@@ -88,15 +88,3 @@ a.button {
 
 a.button:hover {
   background: red; }
-
-.fl1 {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 1 350px;
-      -ms-flex: 1 1 350px;
-          flex: 1 1 350px; }
-
-.fl2 {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 1 350px;
-      -ms-flex: 1 1 350px;
-          flex: 1 1 350px; }
