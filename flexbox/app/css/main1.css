@@ -12,7 +12,7 @@ img {
   border-radius: 3px; }
 
 .bl {
-  padding: 5px 10px;
+  padding: 10px;
   border: 1px solid #ddd;
   background: #fefefe;
   border-radius: 3px;
@@ -45,8 +45,58 @@ img {
   -webkit-flex: 1 1 200px;
       -ms-flex: 1 1 200px;
           flex: 1 1 200px;
-  text-align: center; }
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap; }
+
+h3 {
+  color: #406cd0;
+  margin: 0 10px 0 0;
+  font-size: 1.1em; }
+
+.image {
+  margin: 10px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 200px;
+      -ms-flex: 1 1 200px;
+          flex: 1 1 200px; }
+
+.text {
+  margin: 10px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 150px;
+      -ms-flex: 1 1 150px;
+          flex: 1 1 150px; }
 
 .image img {
   width: 100%;
   height: auto; }
+
+a.button {
+  background: #406cd0;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+  text-decoration: none;
+  -webkit-transition: 0.3s;
+          transition: 0.3s; }
+
+a.button:hover {
+  background: red; }
+
+.fl1 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 350px;
+      -ms-flex: 1 1 350px;
+          flex: 1 1 350px; }
+
+.fl2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 350px;
+      -ms-flex: 1 1 350px;
+          flex: 1 1 350px; }
