@@ -2,3 +2,5 @@ http://livestreetcms.ru/download/ - LiveStreet CMS Ч это одна из лучших систем д
 
 https://pagekit.com/api/download/latest - A modern Open Source CMS Intuitive. Modular. Flexible.
 
+http://vsdesk.ru/ - система управления ИТ отделом | Helpdesk система заявок и инцидентов.
+

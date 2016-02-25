@@ -1,0 +1,2 @@
+
+http://habrahabr.ru/post/270665/ - Создание подсказок для сайта с помощью EnjoyHint
