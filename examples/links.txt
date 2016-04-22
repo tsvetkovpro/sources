@@ -1,0 +1,19 @@
+
+
+http://habrahabr.ru/post/270665/ - Создание подсказок для сайта с помощью EnjoyHint
+http://tvrtkom.github.io/jQTipnav/# - A jQuery plugin which enables showing small navigation bars on interaction with action element.
+
+
+http://www.listjs.com - fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
+
+
+https://spiritjs.io/ - Easily animate
+
+
+https://github.com/VPenkov/okayNav - The world's okayest responsive navigation
+
+
+http://austenpayan.github.io/skippr/ - A lighter, faster slideshow plugin for jQuery.
+
+
+http://atayahmet.github.io/jquery.easypin/demo2.html - Simple and fast image pinning plugin.

@@ -1,0 +1,20 @@
+http://livestreetcms.ru/download/ - LiveStreet CMS это одна из лучших систем дл€ создания блого-социальных сетей
+https://pagekit.com/api/download/latest - A modern Open Source CMS Intuitive. Modular. Flexible.
+http://vsdesk.ru/ - система управления ИТ отделом | Helpdesk система заявок и инцидентов.
+
+
+https://github.com/amcsi/szeremi - Source code for Attila Szeremi's portfolio website
+https://github.com/caljrimmer/portfolio-redux-app - A Portfolio example in React and Redux.  http://www.callumrimmer.co.uk/
+https://github.com/N8-B/nathanburkiewicz.com - blog
+
+
+https://quorrajs.org/ - QuorraJS is a full fledged, open-source MVC NodeJS framework
+
+
+https://github.com/morrisjs/morris.js - is the library that powers the graphs on http://howmanyleft.co.uk/.
+https://github.com/jakubfiala/atrament.js - library for drawing and handwriting on the HTML Canvas
+
+
+https://github.com/dmytroyarmak/frontend-dev-resources - frontend-dev-resources
+ 
+

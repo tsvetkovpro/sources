@@ -1,6 +1,0 @@
-
-http://habrahabr.ru/post/270665/ - Создание подсказок для сайта с помощью EnjoyHint
-
-http://www.listjs.com - vpowerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
-
-https://spiritjs.io/ - Easily animate
