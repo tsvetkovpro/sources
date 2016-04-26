@@ -1,0 +1,3 @@
+https://popper.js.org/ - library used to create poppers in web applications
+
+https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes
