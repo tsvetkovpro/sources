@@ -17,3 +17,35 @@ http://austenpayan.github.io/skippr/ - A lighter, faster slideshow plugin for jQ
 
 
 http://atayahmet.github.io/jquery.easypin/demo2.html - Simple and fast image pinning plugin.
+
+
+
+https://github.com/markerikson/react-redux-links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+
+
+
+
+
+
+http://electron.atom.io/ - Build cross platform desktop apps with JavaScript, HTML, and CSS 
+
+https://onsen.io/v2/# - Onsen UI 2 Rich UI components for beautiful HTML5 hybrid mobile apps
+
+https://github.com/JoelOtter/kajero - Interactive JavaScript notebooks with clever graphing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
