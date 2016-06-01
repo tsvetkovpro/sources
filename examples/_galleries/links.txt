@@ -1,1 +1,3 @@
 https://github.com/DizzyZane/carousel-css - Carousel (No JS)  https://dizzyzane.github.io/carousel-css/ - live demo
+
+http://www.vanillalist.com/ - Coz' sometimes you feel guilty for using jQuery.
