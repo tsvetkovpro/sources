@@ -34,6 +34,10 @@ https://onsen.io/v2/# - Onsen UI 2 Rich UI components for beautiful HTML5 hybrid
 
 https://github.com/JoelOtter/kajero - Interactive JavaScript notebooks with clever graphing
 
+https://www.sitepoint.com/webrtc-video-chat-application-peerjs/ - Building a WebRTC Video Chat Application with PeerJS
+
+https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/ - Building Real-time Apps with Websockets & Server-Sent Events
+
 
 
 
