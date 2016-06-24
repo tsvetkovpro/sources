@@ -1,0 +1,908 @@
+{
+	"folder_history":
+	[
+		"/E/www/Dropbox/apps/git/gulp",
+		"/E/www/Dropbox/apps/git/56mcdirru",
+		"/F/desktop/prototype-contacts",
+		"/F/desktop/1",
+		"/E/www/Dropbox/apps/git/tsvetkovpro",
+		"/F/desktop/RoomDisplay",
+		"/F/desktop/MultiLevelMenu"
+	],
+	"last_version": 3075,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 483.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"p",
+						"position: "
+					],
+					[
+						"tra",
+						"transition	Bourbon"
+					],
+					[
+						"t",
+						"text-align: "
+					],
+					[
+						"i",
+						"inline-block"
+					],
+					[
+						"tex",
+						"text-transform: "
+					],
+					[
+						"tr",
+						"transition: "
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"top",
+						"top_text"
+					],
+					[
+						"mid",
+						"middle"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"toggle",
+						"toggle_mnu"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"re",
+						"relative"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 184.0,
+				"last_filter": "Package Control: insta",
+				"selected_items":
+				[
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"Themr: Next theme"
+					],
+					[
+						"setsynht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setti",
+						"Preferences: Settings - User"
+					],
+					[
+						"setsyc",
+						"Set Syntax: CSS"
+					],
+					[
+						"settuse",
+						"Preferences: Settings - User"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"gis",
+						"Gist: Open Gist"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Themr: List themes"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"setjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"setsht",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"paka",
+						"Package Control: Remove Package"
+					],
+					[
+						"inspa",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Enable Linting"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"setssa",
+						"Set Syntax: Sass"
+					],
+					[
+						"setsynsa",
+						"Set Syntax: Sass"
+					],
+					[
+						"setsysa",
+						"Set Syntax: Sass"
+					],
+					[
+						"pacv",
+						"Package Control: Advanced Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts-old/index.html",
+				"/F/desktop/prototype-contacts/css/style.css",
+				"/F/desktop/prototype-contacts/index.html",
+				"/C/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/E/www/Dropbox/apps/git/gulp/gulpfile.js",
+				"/E/www/Dropbox/apps/git/gulp/README.md",
+				"/E/www/Dropbox/apps/git/gulp/source/js/1.js",
+				"/E/www/Dropbox/apps/git/gulp/source/js/2.js",
+				"/F/desktop/prototype-contacts/README.txt",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/js/common.js",
+				"/E/www/Dropbox/apps/git/gulp/package.json",
+				"/E/www/Dropbox/apps/git/56mcdirru/index.html",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/index.html",
+				"/C/sublime/Data/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/C/sublime/Data/Packages/User/ThemrFavorites.sublime-settings",
+				"/E/www/Dropbox/apps/git/56mcdirru/css/default.css",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/fixed-data-table.git/dist/fixed-data-table.css",
+				"/F/desktop/1/index.html",
+				"/F/desktop/contacts/index.html",
+				"/F/desktop/contacts/css/main.css",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/js/app.js",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/index.php",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/header.php",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/footer.php",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/link.txt",
+				"/E/www/Dropbox/apps/git/56mcdirru/js/books1.js",
+				"/F/desktop/MultiLevelMenu/index.html",
+				"/F/desktop/RoomDisplay/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"?",
+					".reporter",
+					"column severity high",
+					"Severity",
+					"Status",
+					"indent_guide_options",
+					"line_padding_top",
+					"comment",
+					"\nApp crashes when dragged by title bar",
+					"Армада",
+					"products",
+					"foodicon foodicon",
+					"foodicon foodicon--corn",
+					"dolor",
+					"upda",
+					"ctrl+shift+r",
+					">\n",
+					"');\n",
+					"sandwich",
+					"	.loader_inner\n",
+					"portfolio_",
+					"portf",
+					"sample_theme_option",
+					"theme",
+					"container",
+					"f5",
+					"top_descr",
+					"sec",
+					"s_de",
+					"top_wrapper",
+					"0",
+					">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"comjs",
+						"js\\common.js"
+					],
+					[
+						"1.h",
+						"1.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1746.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"p",
+						"position: "
+					],
+					[
+						"tra",
+						"transition	Bourbon"
+					],
+					[
+						"t",
+						"text-align: "
+					],
+					[
+						"i",
+						"inline-block"
+					],
+					[
+						"tex",
+						"text-transform: "
+					],
+					[
+						"tr",
+						"transition: "
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"top",
+						"top_text"
+					],
+					[
+						"mid",
+						"middle"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"toggle",
+						"toggle_mnu"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"re",
+						"relative"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 185.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"Themr: Next theme"
+					],
+					[
+						"setsynht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setti",
+						"Preferences: Settings - User"
+					],
+					[
+						"setsyc",
+						"Set Syntax: CSS"
+					],
+					[
+						"settuse",
+						"Preferences: Settings - User"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"gis",
+						"Gist: Open Gist"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Themr: List themes"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"setjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"setsht",
+						"Set Syntax: HTML"
+					],
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"paka",
+						"Package Control: Remove Package"
+					],
+					[
+						"inspa",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Enable Linting"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"setssa",
+						"Set Syntax: Sass"
+					],
+					[
+						"setsynsa",
+						"Set Syntax: Sass"
+					],
+					[
+						"setsysa",
+						"Set Syntax: Sass"
+					],
+					[
+						"pacv",
+						"Package Control: Advanced Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/www/Dropbox/apps/git/gulp"
+			],
+			"file_history":
+			[
+				"/E/www/Dropbox/apps/git/gulp/public/main.css",
+				"/E/www/Dropbox/apps/git/gulp/gulpfile.js",
+				"/E/www/Dropbox/apps/git/gulp/node_modules/gulp-stylus/index.js",
+				"/E/www/Dropbox/apps/git/gulp/frontend/styles/header.styl",
+				"/E/www/Dropbox/apps/git/gulp/frontend/styles/main.styl",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts-old/index.html",
+				"/F/desktop/prototype-contacts/css/style.css",
+				"/F/desktop/prototype-contacts/index.html",
+				"/C/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/E/www/Dropbox/apps/git/gulp/README.md",
+				"/E/www/Dropbox/apps/git/gulp/source/js/1.js",
+				"/E/www/Dropbox/apps/git/gulp/source/js/2.js",
+				"/F/desktop/prototype-contacts/README.txt",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/js/common.js",
+				"/E/www/Dropbox/apps/git/gulp/package.json",
+				"/E/www/Dropbox/apps/git/56mcdirru/index.html",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/index.html",
+				"/C/sublime/Data/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/C/sublime/Data/Packages/User/ThemrFavorites.sublime-settings",
+				"/E/www/Dropbox/apps/git/56mcdirru/css/default.css",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/fixed-data-table.git/dist/fixed-data-table.css",
+				"/F/desktop/1/index.html",
+				"/F/desktop/contacts/index.html",
+				"/F/desktop/contacts/css/main.css",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/js/app.js",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/index.php",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/header.php",
+				"/E/www/Dropbox/apps/git/tsvetkovpro/footer.php",
+				"/E/www/Dropbox/apps/git/56mcdirru/contacts/link.txt",
+				"/E/www/Dropbox/apps/git/56mcdirru/js/books1.js",
+				"/F/desktop/MultiLevelMenu/index.html",
+				"/F/desktop/RoomDisplay/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"?",
+					".reporter",
+					"column severity high",
+					"Severity",
+					"Status",
+					"indent_guide_options",
+					"line_padding_top",
+					"comment",
+					"\nApp crashes when dragged by title bar",
+					"Армада",
+					"products",
+					"foodicon foodicon",
+					"foodicon foodicon--corn",
+					"dolor",
+					"upda",
+					"ctrl+shift+r",
+					">\n",
+					"');\n",
+					"sandwich",
+					"	.loader_inner\n",
+					"portfolio_",
+					"portf",
+					"sample_theme_option",
+					"theme",
+					"container",
+					"f5",
+					"top_descr",
+					"sec",
+					"s_de",
+					"top_wrapper",
+					"0",
+					">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\www\\Dropbox\\apps\\git\\gulp"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,824,1906,282,3668",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"comjs",
+						"js\\common.js"
+					],
+					[
+						"1.h",
+						"1.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/www/Dropbox/apps/git/gulp/gulp-project.sublime-workspace",
+			"/E/www/Dropbox/apps/git/56mcdirru/56.sublime-workspace"
+		]
+	}
+}
