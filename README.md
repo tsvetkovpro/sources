@@ -1,12 +1,12 @@
 # Разделы:
 
-- [administration](/administration)
+- [Администрирование серверов и сетей](/administration)
 - database
 - project
 - security
 - software-architecture
-- software-development
+- [Разработка ПО и веб](software-development)
 - support
 - system-analysis
 - telecommunications
-- ui-and-ux-design
+- [Дизайн интерфейсов и опыта взаимодействия](ui-and-ux-design)
