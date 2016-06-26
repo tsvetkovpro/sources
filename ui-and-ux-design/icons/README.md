@@ -4,7 +4,7 @@
 
 *The set includes icons in 4 sizes and in 8 formats: AI, CSH, EPS, SVG, PDF, PNG, Sketch and Webfont.*
 
-![alt text](./img/freebie-home-appliance-and-real-estate-icons "Freebie: Home Appliance And Real Estate Icons")
+![alt text](./img/freebie-home-appliance-and-real-estate-icons.jpg "Freebie: Home Appliance And Real Estate Icons")
 
 ---
 
@@ -16,7 +16,7 @@
 
 1. Flat science line icons
 
-![alt text](./img/flat-science-line-icons "Flat science line icons")
+![alt text](./img/flat-science-line-icons.jpg "Flat science line icons")
 
 ---
 
