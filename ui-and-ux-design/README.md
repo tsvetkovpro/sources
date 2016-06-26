@@ -1,12 +1,8 @@
-# Разделы:
+# Содержание:
 
-- [Администрирование серверов и сетей](/administration)
-- database
-- project
-- security
-- software-architecture
-- [Разработка ПО и веб](software-development)
-- support
-- system-analysis
-- telecommunications
-- [Дизайн интерфейсов и опыта взаимодействия](ui-and-ux-design)
+- [Фото галлереии](ui-and-ux-design/galleries)
+- [Иконки](ui-and-ux-design/icons)
+
+
+
+
