@@ -15,7 +15,7 @@
 
 3. [Panorama](./panorama.zip)
 
-*[Building blocks for the virtual reality web Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift.](https://aframe.io/)*
+*Building blocks for the virtual reality web Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift.* [Ссылка на проект](https://aframe.io/)
 
 ![alt text](./img/panorama.jpg "Panorama")
 
@@ -30,9 +30,11 @@
 
 ![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
 
-2. [](./)
-**
-![alt text](./img/ "")
+6. [Highslide JS](./high-slide.zip)
+
+*Highslide JS is an image, media and gallery viewer written in JavaScript*
+
+![alt text](./img/high-slide.jpg "Highslide JS")
 
 2. [](./)
 **
