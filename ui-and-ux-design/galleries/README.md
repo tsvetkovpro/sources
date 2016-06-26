@@ -26,6 +26,22 @@
 
 ![alt text](./img/simple-lightbox.jpg "Simple Lightbox")
 
+5. [D3.js map visualization](./d3js-map-visualization.zip)
+
+![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
+
+2. [](./)
+**
+![alt text](./img/ "")
+
+2. [](./)
+**
+![alt text](./img/ "")
+
+2. [](./)
+**
+![alt text](./img/ "")
+
 2. [](./)
 **
 ![alt text](./img/ "")
