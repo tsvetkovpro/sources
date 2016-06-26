@@ -1,5 +1,13 @@
 # Содержание:
 
+1. [The Vanilla Javascript Repository](http://www.vanillalist.com/)
+
+*Coz' sometimes you feel guilty for using jQuery.*
+
+![alt text](./img/Vanilla.jpg "Vanilla Javascript")
+
+---
+
 1. [Circle Navigation Effect with CSS3](./circle-navigation-effect.zip)
 
 *Today we want to show you how to create a beautiful hover effect for an image navigation using CSS3. The idea is to expand a circular navigation with an arrow and make a bubble with a thumbnail appear. In our example we will be showing the thumbnail of the next and previous slider image on hovering the arrows. The effect is done with CSS3 transitions.*
@@ -70,11 +78,33 @@
 
 ---
 
-2. [Vertical Timeline](./vertical-timeline.zip)
+10. [Vertical Timeline](./vertical-timeline.zip)
 
 *A responsive vertical timeline layout with icons and example media queries.*
 
 ![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
+
+---
+
+11. [20 Useful jQuery Sliders](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)
+
+*Take a look at these 20 useful jQuery sliders from Envato Market and you'll see there's more to sliders than a box that fades from one image to the next.*
+
+---
+
+1. [Carousel (No JS)](https://github.com/DizzyZane/carousel-css)
+
+*Carousel made using Jade, Stylus.*
+
+![alt text](./img/Carousel.jpg "Carousel (NO JS)")
+
+---
+
+1. [simplezoom.js](https://github.com/chinchang/simplezoom.js)
+
+*A tiny JavaScript library to preview images, better way*
+
+![alt text](./img/simplezoom.jpg "Vanilla Javascript")
 
 ---
 
