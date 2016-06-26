@@ -6,6 +6,7 @@
 
 ![alt text](./img/CircleNavigationEffect.jpg "Circle Navigation Effect with CSS3")
 
+---
 
 2. [Gamma Gallery: A Responsive Image Gallery Experiment](./gamma-gallery.zip)
 
@@ -13,12 +14,15 @@
 
 ![alt text](./img/GammaGallery.jpg "Gamma Gallery")
 
+---
+
 3. [Panorama](./panorama.zip)
 
 *Building blocks for the virtual reality web Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift.* [Ссылка на проект](https://aframe.io/)
 
 ![alt text](./img/panorama.jpg "Panorama")
 
+---
 
 4. [Simple Lightbox](./simple-lightbox.zip)
 
@@ -26,9 +30,13 @@
 
 ![alt text](./img/simple-lightbox.jpg "Simple Lightbox")
 
+---
+
 5. [D3.js map visualization](./d3js-map-visualization.zip)
 
 ![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
+
+---
 
 6. [Highslide JS](./high-slide.zip)
 
@@ -36,11 +44,15 @@
 
 ![alt text](./img/high-slide.jpg "Highslide JS")
 
+---
+
 7. [Product Comparison Layout & Effect](./product-comparison.zip)
 
 *A basic responsive product grid layout with comparison functionality and a slide-in effect.*
 
 ![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
+
+---
 
 8. [Interactive Room Display](./room-display.zip)
 
@@ -48,9 +60,15 @@
 
 ![alt text](./img/RoomDisplay.jpg "Room Display")
 
-2. [](./)
+---
+
+9. [Thumbnail Grid with Expanding Preview](./thumbnail-grid-expanding-preview.zip)
+
 **
-![alt text](./img/ "")
+
+![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
+
+---
 
 2. [](./)
 **
