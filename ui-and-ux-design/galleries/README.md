@@ -42,9 +42,11 @@
 
 ![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
 
-2. [](./)
-**
-![alt text](./img/ "")
+8. [Interactive Room Display](./room-display.zip)
+
+*An experimental interactive room slideshow based on the prototype concept by Bilal Mechairia's Dribbble shot "Spaces".*
+
+![alt text](./img/RoomDisplay.jpg "Room Display")
 
 2. [](./)
 **
