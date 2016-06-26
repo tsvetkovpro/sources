@@ -64,15 +64,19 @@
 
 9. [Thumbnail Grid with Expanding Preview](./thumbnail-grid-expanding-preview.zip)
 
-**
+*A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.*
 
 ![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
 
 ---
 
-2. [](./)
-**
-![alt text](./img/ "")
+2. [Vertical Timeline](./vertical-timeline.zip)
+
+*A responsive vertical timeline layout with icons and example media queries.*
+
+![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
+
+---
 
 
 
