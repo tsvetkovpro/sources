@@ -36,9 +36,11 @@
 
 ![alt text](./img/high-slide.jpg "Highslide JS")
 
-2. [](./)
-**
-![alt text](./img/ "")
+7. [Product Comparison Layout & Effect](./product-comparison.zip)
+
+*A basic responsive product grid layout with comparison functionality and a slide-in effect.*
+
+![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
 
 2. [](./)
 **
