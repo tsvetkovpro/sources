@@ -1,7 +1,9 @@
 # Содержание:
 
-- [Фото галлереии](ui-and-ux-design/galleries)
-- [Иконки](ui-and-ux-design/icons)
+- [Фото галереи](/galleries)
+- [Иконки](/icons)
+- [Лендинги](/landing)
+- [Элементы интерфейса (ui)](/ui)
 
 
 
