@@ -1,5 +1,40 @@
 # Содержание:
 
+
+1. [Flexbox](./flexbox)
+
+![alt text](./img/flexbox1.jpg "")
+
+![alt text](./img/flexbox2.jpg "")
+
+![alt text](./img/flexbox3.jpg "")
+
+---
+
+1. []()
+
+**
+
+![alt text](./img/ "")
+
+---
+
+1. []()
+
+**
+
+![alt text](./img/ "")
+
+---
+
+1. []()
+
+**
+
+![alt text](./img/ "")
+
+---
+
 1. [Awesome websites](https://dash.generalassemb.ly/)
 
 *Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser.*
@@ -11,38 +46,6 @@
 - [5 madlibs](./dash-website/5 madlibs)
 
 ![alt text](./img/dash.jpg "Dash ")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
 
 ---
 
