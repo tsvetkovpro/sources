@@ -20,45 +20,14 @@
 
 ---
 
-1. []()
+1. Wifi connections icons
 
-**
-
-![alt text](./img/ "")
+![alt text](./img/wifi.jpg "Wifi connections icons")
 
 ---
 
-1. []()
+1. World landamark
 
-**
-
-![alt text](./img/ "")
+![alt text](./img/world-landamark.jpg "World landamark")
 
 ---
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-1. []()
-
-**
-
-![alt text](./img/ "")
-
----
-
-
-
