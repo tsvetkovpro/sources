@@ -8,25 +8,25 @@
 
 ---
 
-1. **Fblu**
+1. [Fblu](./fblu)
 
 ![alt text](./img/fblu.jpg "fblu.jpg")
 
 ---
 
-1. **Flat science line icons**
+1. [Flat science line icons](./flat-science-line-icons)
 
 ![alt text](./img/flat-science-line-icons.jpg "Flat science line icons")
 
 ---
 
-1. **Wifi connections icons**
+1. [Wifi connections icons](./wifi-connections-icons)
 
 ![alt text](./img/wifi.jpg "Wifi connections icons")
 
 ---
 
-1. **World landamark**
+1. [World landamark](./world-landamark)
 
 ![alt text](./img/world-landamark.jpg "World landamark")
 
