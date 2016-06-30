@@ -21,19 +21,21 @@
 
 ---
 
-1. []()
+1. [Sedna](./sedna.7z)
 
-**
-
-![alt text](./img/ "")
+![alt text](./img/sedna.jpg "Sedna")
 
 ---
 
-1. []()
+1. [Landio](./landio.zip)
 
-**
+![alt text](./img/landio.jpg "")
 
-![alt text](./img/ "")
+---
+
+1. [Material portfolio cv](./material-portfolio-cv.zip)
+
+![alt text](./img/material-portfolio-cv.jpg "Material portfolio cv")
 
 ---
 
