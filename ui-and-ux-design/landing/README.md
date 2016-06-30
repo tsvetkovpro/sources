@@ -1,20 +1,6 @@
 # Содержание:
 
 
-1. [Flexbox - 1](./flexbox)
-
-![alt text](./img/flexbox1.jpg "")
-
-1. [Flexbox - 2](./flexbox)
-
-![alt text](./img/flexbox2.jpg "")
-
-1. [Flexbox - 3](./flexbox)
-
-![alt text](./img/flexbox3.jpg "")
-
----
-
 1. [Portfolio](./portfolio)
 
 ![alt text](./img/portfolio.jpg "Portfolio")
@@ -39,6 +25,12 @@
 
 ---
 
+1. [Synthetica](./synthetica.zip)
+
+![alt text](./img/synthetica.jpg "Synthetica")
+
+---
+
 1. [Awesome websites](https://dash.generalassemb.ly/)
 
 *Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser.*
@@ -53,3 +45,16 @@
 
 ---
 
+1. [Flexbox - 1](./flexbox)
+
+![alt text](./img/flexbox1.jpg "")
+
+1. [Flexbox - 2](./flexbox)
+
+![alt text](./img/flexbox2.jpg "")
+
+1. [Flexbox - 3](./flexbox)
+
+![alt text](./img/flexbox3.jpg "")
+
+---
