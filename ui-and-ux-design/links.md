@@ -23,8 +23,6 @@
  - [React isomorphic](https://react.rocks/tag/Isomorphic)
  
 ---
- 
----
 
  - [Bootstrap cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet)
  
