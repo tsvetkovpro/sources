@@ -15,7 +15,7 @@
 
 1. [Semantic UI](./semantic-ui.zip)
 
-**User Interface is the language of the web**
+*User Interface is the language of the web*
 
 ![alt text](./img/semantic-ui.jpg "Semantic UI")
 
@@ -29,14 +29,8 @@
 
 1. [Tourist.js](https://github.com/easelinc/tourist)
 
-***Tourist.js is a simple library for creating guided tours through your app.*
+*Tourist.js is a simple library for creating guided tours through your app.*
 
 ![alt text](./img/tourist.jpg "Tourist.js")
-
----
-
-1. [](./)
-
-![alt text](./img/ "")
 
 ---
