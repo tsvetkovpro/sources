@@ -2,15 +2,13 @@
 
 - [Архивы проектов](./archive)
 
----
-
 - [Ссылки](./examples/links.md)
-
----
 
 - [Инструменты - tools](./archive/tools.md)
 
+
 ---
+
 
 - [Демо контакты](./examples/demo-contact)
 
