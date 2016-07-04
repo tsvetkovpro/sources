@@ -8,15 +8,13 @@
 
 ---
 
-1. [Инструменты - tools]()
-
-[ 1. Sublime Text 3](./archive/ide)
+1. [Инструменты - tools](./archive/tools.md)
 
 ---
 
 1. [Демо контакты](./examples/demo-contact)
 
-![](./img/demo-contacts.jpg "Демо контакты")
+![](./examples/img/demo-contacts.jpg "Демо контакты")
 
 ---
 
@@ -24,7 +22,7 @@
 
 *Simple pure JavaScript REST API client that makes your code lesser and more beautiful than without it.*
 
-![](./img/rest-api.jpg "Rest-api")
+![](./examples/img/rest-api.jpg "Rest-api")
 
 ---
 
@@ -32,7 +30,7 @@
 
 **Пример парсинга данных из excel и построение html-таблицы из них**
 
-![](./img/parsing-csv.jpg "parsing-csv")
+![](./examples/img/parsing-csv.jpg "parsing-csv")
 
 ---
 
@@ -44,13 +42,13 @@
 
 1. [Php скрипт обратной связи](./examples/feedback.zip)
 
-![](./img/feedback.jpg "Php скрипт обратной связи")
+![](./examples/img/feedback.jpg "Php скрипт обратной связи")
 
 ---
 
 1. [Калькулятор пластиковых окон на js](./examples/js-windows-cost-calculator.zip)
 
-![](./img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
+![](./examples/img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
 
 ---
 
