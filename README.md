@@ -1,8 +1,8 @@
 # Разделы:
 
 - [Администрирование серверов и сетей](/administration)
-- [Разработка ПО и веб](software-development)
-- [Дизайн интерфейсов и опыта взаимодействия](ui-and-ux-design)
+- [Веб-разработка](software-development)
+- [Дизайн интерфейсов и опыта взаимодействия (ui and ux) ](ui-and-ux-design)
 - ~~database~~
 - ~~project~~
 - ~~security~~
