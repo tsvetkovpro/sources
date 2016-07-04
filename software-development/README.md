@@ -36,6 +36,8 @@
 
 **Пример простого парсинга**
 
+![](./examples/img/parce.jpg "parsing-csv")
+
 ---
 
 - [Php скрипт обратной связи](./examples/feedback.zip)
