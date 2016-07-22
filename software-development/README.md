@@ -40,9 +40,9 @@
 
 ---
 
-- [Php скрипт обратной связи](./examples/feedback.zip)
+- [Authentication using VueJS 2.0, Express, and Passport](./examples/vuejs2-authentication)
 
-![](./examples/img/feedback.jpg "Php скрипт обратной связи")
+![](./examples/img/auth.jpg "Authentication using VueJS 2.0, Express, and Passport")
 
 ---
 
