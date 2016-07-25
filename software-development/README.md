@@ -50,7 +50,7 @@
 
 - [A Bookmarking App with Electron, VueJs, and Firebase](./examples/bookmarking-app-electron-vuejs-firebase.zip)
 
-![](./examples/img/auth.jpg "Building a Bookmarking App with Electron, VueJs, and Firebase")
+![](./examples/img/app-with-electron-vuejs-and-firebase.jpg "Building a Bookmarking App with Electron, VueJs, and Firebase")
 
 ---
 
