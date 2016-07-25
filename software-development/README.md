@@ -46,6 +46,14 @@
 
 ---
 
+---
+
+- [A Bookmarking App with Electron, VueJs, and Firebase](./examples/bookmarking-app-electron-vuejs-firebase.zip)
+
+![](./examples/img/auth.jpg "Building a Bookmarking App with Electron, VueJs, and Firebase")
+
+---
+
 - [Калькулятор пластиковых окон на js](./examples/js-windows-cost-calculator.zip)
 
 ![](./examples/img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
