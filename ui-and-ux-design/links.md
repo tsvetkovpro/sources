@@ -7,12 +7,6 @@
 ---
 
 
-- [Библиотека для создания блоков с подсказками](https://popper.js.org/)
-
-
----
-
-
 - [События KeyboardEvents](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)
 
 

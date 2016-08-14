@@ -27,6 +27,12 @@
 
 ---
 
+1. [Popper.js](https://popper.js.org/)
+
+![alt text](./img/poper.jpg "poper")
+
+---
+
 1. [Tourist.js](https://github.com/easelinc/tourist)
 
 *Tourist.js is a simple library for creating guided tours through your app.*
