@@ -38,6 +38,7 @@
 ---
 
 - [VueJS 2.0, Express, and Passport](./examples/vuejs2-authentication)
+
 **Пример авторизации на nodeJS**
 
 ![](./examples/img/auth.jpg "Authentication using VueJS 2.0, Express, and Passport")
@@ -47,6 +48,7 @@
 ---
 
 - [Electron, VueJs, and Firebase](./examples/bookmarking-app-electron-vuejs-firebase.zip)
+
 **Пример приложения для управления закладками**
 
 ![](./examples/img/app-with-electron-vuejs-and-firebase.jpg "Building a Bookmarking App with Electron, VueJs, and Firebase")

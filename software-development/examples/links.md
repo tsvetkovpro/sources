@@ -3,17 +3,15 @@
 
 ---
 
-[Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux)
+- [Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux)
 
 ---
 
 - [Основа для создания приложения на реакт](https://github.com/facebookincubator/create-react-app)
 
----
 
 - [Примеры изоморфных приложений на реакте](https://react.rocks/tag/Isomorphic)
 
----
 
 - [Полный стартовый набор для разработки на реакте](https://cox-auto-kc.github.io/fusion-starter/)
 
