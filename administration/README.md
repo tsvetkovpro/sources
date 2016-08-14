@@ -8,7 +8,7 @@
 
 *Бекапит бд mysql и ложит на сервер в архиве*
 
-![](./img/backupsh.jpg "backup-sh")
+![](./img/backup-sh.jpg "backup-sh")
 
 
 ---
