@@ -16,7 +16,7 @@
 
 ---
 
-- #### [Rest-api client](./examples/rest-api)
+- [**Rest-api client**](./examples/rest-api)
 
 *Чистый JavaScript REST API клиент*
 
