@@ -1,7 +1,7 @@
 # Содержание:
 
 
-1. [CSS3 Hover Effects](./hover.zip)
+1. [Эффекты наведения с CSS3](./hover.zip)
 
 ![alt text](./img/hover.jpg "CSS3 Hover Effects")
 
@@ -21,25 +21,26 @@
 
 ---
 
-1. [Zebra tooltips](./zebra-tooltips.zip)
+1. [Подсказки](./zebra-tooltips.zip)
 
 ![alt text](./img/zebra_tooltips.jpg "Zebra tooltips")
 
 ---
 
-1. [Popper.js](https://popper.js.org/)
+1. [Подсказки](https://popper.js.org/)
 
 ![alt text](./img/poper.JPG "poper")
 
 ---
 
-1. [Tourist.js](https://github.com/easelinc/tourist)
 
-*Tourist.js is a simple library for creating guided tours through your app.*
+1. [Тур по сайту](https://github.com/easelinc/tourist)
 
 ![alt text](./img/tourist.jpg "Tourist.js")
 
+
 ---
+
 
 1. [Flexbox - 1](./flexbox)
 
@@ -53,11 +54,12 @@
 
 ![alt text](./img/flexbox3.jpg "")
 
+
 ---
 
-1. [Awesome websites](https://dash.generalassemb.ly/)
 
-*Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser.*
+1. [Простая вёрстка](https://dash.generalassemb.ly/)
+
 
 - [1 personal-page](./dash-website/1 personal-page)
 - [2 responsive-blog-theme](./dash-website/2 responsive-blog-theme)
