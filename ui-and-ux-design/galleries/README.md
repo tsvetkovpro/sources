@@ -101,7 +101,7 @@
 
 *JavaScript галлерея, с полным набором возможностей, без зависимостей*
 
-![alt text](./img/lightgallery.jpg "")
+![alt text](./img/lightgallery.jpg "Lightgallery")
 
 
 ---
