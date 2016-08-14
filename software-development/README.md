@@ -45,6 +45,16 @@
 ---
 
 
+- [**Локальное хранилище**](./examples/webstorage)
+
+*Пример работы с локальным хранилищем броузера*
+
+![](./examples/img/localstorage.jpg "")
+
+
+---
+
+
 - [**VueJS 2.0, Express, and Passport**](./examples/vuejs2-authentication)
 
 *Пример авторизации на nodeJS*
