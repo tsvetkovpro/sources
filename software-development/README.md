@@ -10,13 +10,13 @@
 
 ---
 
-- [Книга контактов](./examples/demo-contact)
+- #### [Книга контактов](./examples/demo-contact)
 
 ![](./examples/img/demo-contacts.jpg "Демо контакты")
 
 ---
 
-- [Rest-api client](./examples/rest-api)
+- #### [Rest-api client](./examples/rest-api)
 
 *Чистый JavaScript REST API клиент*
 
@@ -24,7 +24,7 @@
 
 ---
 
-- [Пример парснга *.csv файлов](./examples/parsing-csv)
+- #### [Пример парснга *.csv файлов](./examples/parsing-csv)
 
 **Пример парсинга данных из excel и построение html-таблицы из них**
 
@@ -32,7 +32,7 @@
 
 ---
 
-- [Парсинг html страницы](./examples/parce.html)
+- #### [Парсинг html страницы](./examples/parce.html)
 
 **Пример простого парсинга и вывода данных**
 
@@ -40,7 +40,7 @@
 
 ---
 
-- [VueJS 2.0, Express, and Passport](./examples/vuejs2-authentication)
+- #### [VueJS 2.0, Express, and Passport](./examples/vuejs2-authentication)
 
 **Пример авторизации на nodeJS**
 
@@ -50,7 +50,7 @@
 
 ---
 
-- [Electron, VueJs, and Firebase](./examples/bookmarking-app-electron-vuejs-firebase.zip)
+- #### [Electron, VueJs, and Firebase](./examples/bookmarking-app-electron-vuejs-firebase.zip)
 
 **Пример приложения для управления закладками**
 
@@ -58,12 +58,12 @@
 
 ---
 
-- [Калькулятор пластиковых окон на js](./examples/js-windows-cost-calculator.zip)
+- #### [Калькулятор пластиковых окон на js](./examples/js-windows-cost-calculator.zip)
 
 ![](./examples/img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
 
 ---
 
-- [Мини-корзина](./examples/minibasket-master.zip)
+- #### [Мини-корзина](./examples/minibasket-master.zip)
 
 ---
