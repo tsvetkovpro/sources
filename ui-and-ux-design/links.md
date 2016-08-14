@@ -19,7 +19,7 @@
 ---
 
 
-- [Atrament.js - маленькая библиотека для рисования руками на холсте(html->canvas)](http://hackerthemes.com/bootstrap-cheatsheet)
+- [Atrament.js - маленькая библиотека для рисования руками на холсте (html->canvas)](http://hackerthemes.com/bootstrap-cheatsheet)
 
 
 

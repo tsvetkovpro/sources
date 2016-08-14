@@ -29,7 +29,7 @@
 
 1. [Popper.js](https://popper.js.org/)
 
-![alt text](./img/poper.jpg "poper")
+![alt text](./img/poper.JPG "poper")
 
 ---
 
