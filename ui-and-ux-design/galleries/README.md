@@ -57,28 +57,6 @@
 ---
 
 
-7. [Сравнение продуктов](./product-comparison.zip)
-
-![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
-
-
----
-
-
-8. [Интерективные интерьер](./room-display.zip)
-
-![alt text](./img/RoomDisplay.jpg "Room Display")
-
-
----
-
-
-11. [20 jQuery слайдеров](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)
-
-
----
-
-
 1. [Carousel (без JS)](https://github.com/DizzyZane/carousel-css)
 
 ![alt text](./img/Carousel.jpg "Carousel (NO JS)")
@@ -106,10 +84,32 @@
 
 ---
 
+
+11. [20 jQuery слайдеров](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)
+
+
+---
+
 <br />
 <br />
 <br />
 <br />
+
+
+7. [Сравнение продуктов](./product-comparison.zip)
+
+![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
+
+
+---
+
+
+8. [Интерективные интерьер](./room-display.zip)
+
+![alt text](./img/RoomDisplay.jpg "Room Display")
+
+
+---
 
 
 10. [Вертикальная временная шкала](./vertical-timeline.zip)
