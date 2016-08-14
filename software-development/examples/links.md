@@ -1,10 +1,30 @@
 
-- [Build a Simple Todo List Mobile Application with NativeScript](https://x-team.com/2016/04/build-simple-todo-list-mobile-application-nativescript/)
+- [Sublime Text 3 - настроенный для вэб-разработки](./../archive/ide)
 
 ---
 
-- [React isomorphic](https://react.rocks/tag/Isomorphic)
+[Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux)
 
 ---
 
-- [Beautifulprogramming](http://beautifulprogramming.com/)
+- [Основа для создания приложения на реакт](https://github.com/facebookincubator/create-react-app)
+
+---
+
+- [Примеры изоморфных приложений на реакте](https://react.rocks/tag/Isomorphic)
+
+---
+
+- [Полный стартовый набор для разработки на реакте](https://cox-auto-kc.github.io/fusion-starter/)
+
+---
+
+- [Примеры приложений на метеоре](https://www.meteor.com/showcase)
+
+---
+
+- [Красивое программирование](http://beautifulprogramming.com)
+
+---
+
+- [Нативные приложения из вэба](https://www.npmjs.com/package/nativefier)
