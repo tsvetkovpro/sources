@@ -1,37 +1,40 @@
 
-- [Sublime Text 3 - РЅР°СЃС‚СЂРѕРµРЅРЅС‹Р№ РґР»СЏ РІСЌР±-СЂР°Р·СЂР°Р±РѕС‚РєРё](./../archive/ide)
+- [Sublime Text 3 - настроенный для вэб-разработки](./../archive/ide)
 
 ---
 
-- [Р РµР°РєС‚РёРІРЅРѕРµ С†РµРЅС‚СЂР°Р»РёР·РѕРІР°РЅРЅРѕРµ СѓРїСЂР°РІР»РµРЅРёРµ СЃРѕСЃРѕС‚РѕСЏРЅРёРµРј РЅР° javaScript](https://github.com/luisvinicius167/riotux)
+- [Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux)
 
 ---
 
-- [РћСЃРЅРѕРІР° РґР»СЏ СЃРѕР·РґР°РЅРёСЏ РїСЂРёР»РѕР¶РµРЅРёСЏ РЅР° СЂРµР°РєС‚](https://github.com/facebookincubator/create-react-app)
+- [Основа для создания приложения на реакт](https://github.com/facebookincubator/create-react-app)
 
 
-- [РџСЂРёРјРµСЂС‹ РёР·РѕРјРѕСЂС„РЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° СЂРµР°РєС‚Рµ](https://react.rocks/tag/Isomorphic)
+- [Примеры изоморфных приложений на реакте](https://react.rocks/tag/Isomorphic)
 
 
-- [РџРѕР»РЅС‹Р№ СЃС‚Р°СЂС‚РѕРІС‹Р№ РЅР°Р±РѕСЂ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚РєРё РЅР° СЂРµР°РєС‚Рµ](https://cox-auto-kc.github.io/fusion-starter/)
+- [Анимация для реакта](http://twitter-fabric.github.io/velocity-react/)
 
----
 
-- [РџСЂРёРјРµСЂС‹ РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° РјРµС‚РµРѕСЂРµ](https://www.meteor.com/showcase)
-
----
-
-- [РљСЂР°СЃРёРІРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ](http://beautifulprogramming.com)
+- [Полный стартовый набор для разработки на реакте](https://cox-auto-kc.github.io/fusion-starter/)
 
 ---
 
-- [РќР°С‚РёРІРЅС‹Рµ РїСЂРёР»РѕР¶РµРЅРёСЏ РёР· РІСЌР±Р°](https://www.npmjs.com/package/nativefier)
+- [Примеры приложений на метеоре](https://www.meteor.com/showcase)
 
 ---
 
-- [РџРѕР»РµР·РЅС‹Рµ СЂРµСЃСѓСЂСЃС‹ РґР»СЏ РІСЌР±-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°](https://github.com/dmytroyarmak/frontend-dev-resources)
+- [Красивое программирование](http://beautifulprogramming.com)
+
+---
+
+- [Нативные приложения из вэба](https://www.npmjs.com/package/nativefier)
+
+---
+
+- [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
 
 ---
 
 
-#### [РџРµСЂРµР№С‚Рё РІ РЅР°С‡Р°Р»Рѕ](./../../software-development/README.md)
+#### [Перейти в начало](./../../software-development/README.md)
