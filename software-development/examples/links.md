@@ -29,5 +29,9 @@
 
 ---
 
+- [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
 
-#### [В начало](./../../README.md)
+---
+
+
+\t\t\t\t\t\t #### [Перейти в начало](./../../README.md)
