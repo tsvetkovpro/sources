@@ -46,11 +46,6 @@
 
 ---
 
-5. [D3.js - визуализация карты](./d3js-map-visualization.zip)
-
-![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
-
----
 
 6. [Highslide JS](./high-slide.zip)
 
@@ -58,7 +53,9 @@
 
 ![alt text](./img/high-slide.jpg "Highslide JS")
 
+
 ---
+
 
 7. [Сравнение продуктов](./product-comparison.zip)
 
@@ -71,22 +68,6 @@
 8. [Интерективные интерьер](./room-display.zip)
 
 ![alt text](./img/RoomDisplay.jpg "Room Display")
-
-
----
-
-
-9. [Миниатюрная сетка с расширенным просмотром](./thumbnail-grid-expanding-preview.zip)
-
-![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
-
-
----
-
-
-10. [Вертикальная временная шкала](./vertical-timeline.zip)
-
-![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
 
 
 ---
@@ -112,6 +93,7 @@
 
 ![alt text](./img/simplezoom.jpg "Vanilla Javascript")
 
+
 ---
 
 
@@ -119,7 +101,37 @@
 
 *JavaScript галлерея, с полным набором возможностей, без зависимостей*
 
-![alt text](./img/lightgallery "")
+![alt text](./img/lightgallery.jpg "")
+
+
+---
+
+<br />
+<br />
+<br />
+<br />
+
+
+10. [Вертикальная временная шкала](./vertical-timeline.zip)
+
+![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
+
+
+---
+
+
+9. [Миниатюрная сетка с расширенным просмотром](./thumbnail-grid-expanding-preview.zip)
+
+![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
+
+
+---
+
+
+5. [D3.js - визуализация карты](./d3js-map-visualization.zip)
+
+![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
+
 
 ---
 
