@@ -1,9 +1,12 @@
 
 ## Web
 
-**Ide**
+**Инструменты**
 
 * [Sublime Text 3 - настроенный для вэб-разработки](./../archive/ide)
+
+**Разное**
+
 * [Красивое программирование](http://beautifulprogramming.com)
 * [Нативные приложения из вэба](https://www.npmjs.com/package/nativefier)
 * [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
