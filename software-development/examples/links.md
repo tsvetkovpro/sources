@@ -43,6 +43,7 @@
 **Rest API**
 
 * [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
+* [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
 
 
 
