@@ -2,13 +2,21 @@
 
 ## JavaScript
 
+****
+[Asynchronous javascript code with different paradigms](https://github.com/nin-jin/async-js)
+
 **React**
 
+* [Reaction Commerce https://reactioncommerce.com/](https://github.com/reactioncommerce/reaction)
 * [Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux) 
 * [Основа для создания приложения на реакт](https://github.com/facebookincubator/create-react-app)
 * [Примеры изоморфных приложений на реакте](https://react.rocks/tag/Isomorphic)
 * [Анимация для реакта](http://twitter-fabric.github.io/velocity-react/)
 * [Полный стартовый набор для разработки на реакте](https://cox-auto-kc.github.io/fusion-starter/)
+
+**React Native**
+
+* [React Native Starter App with NativeBase + CodePush + Redux http://GeekyAnts.com](https://github.com/start-react/native-starter-kit)
 
 **Meteor**
 
