@@ -32,6 +32,14 @@
 
 ## Backend
 
+**Сообщества**
+* [Slack-сообщество для разработчиков на PHP](https://phpchat.co/)
+* [Сообщество разработчиков чат-ботов для Slack](http://dev4slack.xoxco.com/)
+* [Виртуальная, дополненная и смешанная реальности](https://notiontheory.typeform.com/to/QzZmAD)
+* [Одно из крупнейших Slack-сообщество для разработчиков на языке Go](https://gophersinvite.herokuapp.com/)
+* [Русскоязычное Slack-сообщество для разработчиков](https://rusdevs.herokuapp.com/)
+* [Сообщество для фрилансеров и удаленных работников со всего мира](https://join.nomadlist.com/)
+
 **Rest API**
 
 * [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
