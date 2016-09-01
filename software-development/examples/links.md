@@ -4,6 +4,10 @@
 **Инструменты**
 
 * [Sublime Text 3 - настроенный для вэб-разработки](./../archive/ide)
+* [Secure tunnels to localhost](https://ngrok.com/) 
+* [A continuously expanded list of framework/libraries and tools](https://github.com/moklick/frontend-stuff#table-of-contents)
+* [Smart & Simple Project Management](https://waffle.io/)
+* [Scan your site secure](https://observatory.mozilla.org)
 
 **Разное**
 
@@ -25,6 +29,12 @@
 **Meteor**
 
 * [Примеры приложений на метеоре](https://www.meteor.com/showcase)
+
+## Backend
+
+**Rest API**
+
+* [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
 
 
 
