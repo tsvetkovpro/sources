@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-****
+**Общая информация**
 [Asynchronous javascript code with different paradigms](https://github.com/nin-jin/async-js)
 
 **React**

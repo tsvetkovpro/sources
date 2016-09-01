@@ -9,7 +9,7 @@
 
 ---
 
-- [**Структуры данных js**](./examples/itsy-bitsy-data-structures-master)
+- [**Структуры данных реализованные на js**](./examples/itsy-bitsy-data-structures-master)
 
 1 List <br />
 2 HashTable <br />
