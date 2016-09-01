@@ -22,6 +22,7 @@
 
 * [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
 * [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
+* [A set of Node Tasklist APIs which explores some databases and web frameworks](https://github.com/caio-ribeiro-pereira/node-api-examples)
 
 
 

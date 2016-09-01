@@ -9,6 +9,19 @@
 
 ---
 
+- [**Структуры данных js**](./examples/itsy-bitsy-data-structures-master)
+
+* List
+* HashTable
+* Stack
+* Queue
+* Graph
+* LinkedList
+* Tree
+* BinarySearchTree
+
+---
+
 - [**Книга контактов**](./examples/demo-contact)
 
 ![](./examples/img/demo-contacts.jpg "Демо контакты")
