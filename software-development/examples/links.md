@@ -1,34 +1,34 @@
 
 ## Web
 
-**Инструменты**
+**РРЅСЃС‚СЂСѓРјРµРЅС‚С‹**
 
-* [Sublime Text 3 - настроенный для вэб-разработки](./../archive/ide)
+* [Sublime Text 3 - РЅР°СЃС‚СЂРѕРµРЅРЅС‹Р№ РґР»СЏ РІСЌР±-СЂР°Р·СЂР°Р±РѕС‚РєРё](./../archive/ide)
 * [Secure tunnels to localhost](https://ngrok.com/) 
 * [A continuously expanded list of framework/libraries and tools](https://github.com/moklick/frontend-stuff#table-of-contents)
 * [Smart & Simple Project Management](https://waffle.io/)
 * [Scan your site secure](https://observatory.mozilla.org)
 
-**Разное**
+**Р Р°Р·РЅРѕРµ**
 
-* [Красивое программирование](http://beautifulprogramming.com)
-* [Нативные приложения из вэба](https://www.npmjs.com/package/nativefier)
-* [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
-* [Курируемы список сильных фронтенд разработчиков](https://github.com/talgautb/frontenders)
+* [РљСЂР°СЃРёРІРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ](http://beautifulprogramming.com)
+* [РќР°С‚РёРІРЅС‹Рµ РїСЂРёР»РѕР¶РµРЅРёСЏ РёР· РІСЌР±Р°](https://www.npmjs.com/package/nativefier)
+* [РџРѕР»РµР·РЅС‹Рµ СЂРµСЃСѓСЂСЃС‹ РґР»СЏ РІСЌР±-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°](https://github.com/dmytroyarmak/frontend-dev-resources)
+* [РљСѓСЂРёСЂСѓРµРјС‹ СЃРїРёСЃРѕРє СЃРёР»СЊРЅС‹С… С„СЂРѕРЅС‚РµРЅРґ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ](https://github.com/talgautb/frontenders)
 
 ## JavaScript
 
 **React**
 
-* [Реактивное централизованное управление сосотоянием на javaScript](https://github.com/luisvinicius167/riotux) 
-* [Основа для создания приложения на реакт](https://github.com/facebookincubator/create-react-app)
-* [Примеры изоморфных приложений на реакте](https://react.rocks/tag/Isomorphic)
-* [Анимация для реакта](http://twitter-fabric.github.io/velocity-react/)
-* [Полный стартовый набор для разработки на реакте](https://cox-auto-kc.github.io/fusion-starter/)
+* [Р РµР°РєС‚РёРІРЅРѕРµ С†РµРЅС‚СЂР°Р»РёР·РѕРІР°РЅРЅРѕРµ СѓРїСЂР°РІР»РµРЅРёРµ СЃРѕСЃРѕС‚РѕСЏРЅРёРµРј РЅР° javaScript](https://github.com/luisvinicius167/riotux) 
+* [РћСЃРЅРѕРІР° РґР»СЏ СЃРѕР·РґР°РЅРёСЏ РїСЂРёР»РѕР¶РµРЅРёСЏ РЅР° СЂРµР°РєС‚](https://github.com/facebookincubator/create-react-app)
+* [РџСЂРёРјРµСЂС‹ РёР·РѕРјРѕСЂС„РЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° СЂРµР°РєС‚Рµ](https://react.rocks/tag/Isomorphic)
+* [РђРЅРёРјР°С†РёСЏ РґР»СЏ СЂРµР°РєС‚Р°](http://twitter-fabric.github.io/velocity-react/)
+* [РџРѕР»РЅС‹Р№ СЃС‚Р°СЂС‚РѕРІС‹Р№ РЅР°Р±РѕСЂ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚РєРё РЅР° СЂРµР°РєС‚Рµ](https://cox-auto-kc.github.io/fusion-starter/)
 
 **Meteor**
 
-* [Примеры приложений на метеоре](https://www.meteor.com/showcase)
+* [РџСЂРёРјРµСЂС‹ РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° РјРµС‚РµРѕСЂРµ](https://www.meteor.com/showcase)
 
 ## Backend
 
@@ -39,4 +39,4 @@
 
 
 
-#### [Перейти в начало](./../../software-development/README.md)
+#### [РџРµСЂРµР№С‚Рё РІ РЅР°С‡Р°Р»Рѕ](./../../software-development/README.md)
