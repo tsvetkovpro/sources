@@ -21,3 +21,30 @@ options are available:
 - [1]()
 - [2]()
 - [3]()
+
+
+## Mobile
+
+options are available:
+
+- [1]()
+- [2]()
+- [3]()
+
+
+## Desktop
+
+options are available:
+
+- [1]()
+- [2]()
+- [3]()
+
+
+## Server
+
+options are available:
+
+- [1]()
+- [2]()
+- [3]()
