@@ -1,4 +1,3 @@
-<a href="itsy-bitsy-data-structures.js"><img width="731" alt="ITSY BITSY DATA STRUCTURES" src="https://cloud.githubusercontent.com/assets/952783/17043757/c4ca3f86-4f6e-11e6-9b75-28156635a0d8.png"/></a>
 
 ***Welcome to Itsy Bitsy Data Structures!***
 
@@ -43,5 +42,3 @@ watch/star this repo or follow me on
 [twitter](https://twitter.com/thejameskyle) for updates.
 
 ---
-
-[![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
