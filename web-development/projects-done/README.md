@@ -61,6 +61,7 @@
 <br />
 
 - [**Мини-корзина**](./minibasket-master.zip)
+
 ![](./img/mini-basket.jpg "Мини-корзина")
 
 <br />
