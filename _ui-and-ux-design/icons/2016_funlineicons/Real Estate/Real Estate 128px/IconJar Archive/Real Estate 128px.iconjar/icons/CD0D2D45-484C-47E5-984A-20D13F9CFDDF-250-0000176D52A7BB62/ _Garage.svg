@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<g>
+		<line fill="#FFECB3" x1="8" y1="112" x2="120" y2="112"/>
+		<path fill="#37474F" d="M120,114H8c-1.1,0-2-0.9-2-2s0.9-2,2-2h112c1.1,0,2,0.9,2,2S121.1,114,120,114z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<polyline fill="#FFAB00" points="10.5,54.2 63.9,17.4 117.4,54.2 				"/>
+				<path fill="#37474F" d="M117.4,56.2c-0.4,0-0.8-0.1-1.1-0.4l-52.3-36l-52.3,36c-0.9,0.6-2.2,0.4-2.8-0.5
+					c-0.6-0.9-0.4-2.2,0.5-2.8l53.5-36.8c0.7-0.5,1.6-0.5,2.3,0l53.5,36.8c0.9,0.6,1.1,1.9,0.5,2.8C118.7,55.9,118,56.2,117.4,56.2z
+					"/>
+			</g>
+			<g>
+				<polyline fill="#FFECB3" points="103,54 103,112 25,112 25,54 				"/>
+				<path fill="#37474F" d="M103,114H25c-1.1,0-2-0.9-2-2V54c0-1.1,0.9-2,2-2s2,0.9,2,2v56h74V54c0-1.1,0.9-2,2-2s2,0.9,2,2v58
+					C105,113.1,104.1,114,103,114z"/>
+			</g>
+			<g>
+				<rect x="39" y="64" fill="#B0BEC5" width="50" height="48"/>
+				<path fill="#37474F" d="M89,114H39c-1.1,0-2-0.9-2-2V64c0-1.1,0.9-2,2-2h50c1.1,0,2,0.9,2,2v48C91,113.1,90.1,114,89,114z
+					 M41,110h46V66H41V110z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="#FFECB3" x1="41" y1="77" x2="87" y2="77"/>
+				<path fill="#37474F" d="M87,79H41c-1.1,0-2-0.9-2-2s0.9-2,2-2h46c1.1,0,2,0.9,2,2S88.1,79,87,79z"/>
+			</g>
+			<g>
+				<line fill="#FFECB3" x1="41" y1="89" x2="87" y2="89"/>
+				<path fill="#37474F" d="M87,91H41c-1.1,0-2-0.9-2-2s0.9-2,2-2h46c1.1,0,2,0.9,2,2S88.1,91,87,91z"/>
+			</g>
+			<g>
+				<line fill="#FFECB3" x1="41" y1="101" x2="87" y2="101"/>
+				<path fill="#37474F" d="M87,103H41c-1.1,0-2-0.9-2-2s0.9-2,2-2h46c1.1,0,2,0.9,2,2S88.1,103,87,103z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
