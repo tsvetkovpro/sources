@@ -24,11 +24,11 @@
 ## Server
 Программирование на стороне и сервера. Архитектура приложения, взаимодействие с базой данных - сохраннение, сортировка данных.
 
-- [Rest-api client](./server/rest-api)
-- []()
 - [Структуры данных, реализованные на javascript](./server/itsy-bitsy-data-structures-master)
+- [Rest-api client](./server/rest-api)
 - [Пример парснга *.csv файлов и вывода данных на страницу](./server/parsing-csv)
 - [Парсинг любой html страницы, используя прокси-сервер](./server/parce.html)
+- [VueJS 2.0, Express, and Passport](./server/vuejs2-authentication)
 - [Инструменты](./server/tools)
 
 <br />
