@@ -36,8 +36,7 @@
 <br />
 
 ## Desktop
-
-options are available:
+Примеры приложений для десктопа
 
 - [Electron, VueJs, and Firebase](./desktop/bookmarking-app-electron-vuejs-firebase)
 

@@ -1,6 +1,9 @@
 # Building a Bookmarking App with Electron, VueJs, and Firebase
 
 
+![](./app-with-electron-vuejs-and-firebase.jpg "app-with-electron-vuejs-and-firebase")
+
+
 This code is for the tutorial on building a Bookmarking App with Electron, VueJs, and Firebase.
 
 Check out the full tutorial on [coligo](http://coligo.io/bookmarking-app-electron-vuejs-firebase/)
