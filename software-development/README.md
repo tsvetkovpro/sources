@@ -22,11 +22,7 @@
 
 ---
 
-- [**Книга контактов**](./examples/demo-contact)
 
-![](./examples/img/demo-contacts.jpg "Демо контакты")
-
----
 
 - [**Rest-api client**](./examples/rest-api)
 
@@ -58,11 +54,7 @@
 ---
 
 
-- [**Локальное хранилище**](./examples/webstorage)
 
-*Пример работы с локальным хранилищем броузера*
-
-![](./examples/img/localstorage.jpg "")
 
 <br/ >
 <br/ >
@@ -90,15 +82,13 @@
 ---
 
 
-- [**Калькулятор пластиковых окон на js**](./examples/js-windows-cost-calculator.zip)
 
-![](./examples/img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
 
 
 ---
 
 
-- [**Мини-корзина**](./examples/minibasket-master.zip)
+
 
 
 

@@ -52,6 +52,21 @@
 ---
 <br />
 
+- [**Калькулятор пластиковых окон на javascript**](./js-windows-cost-calculator.zip)
+
+![](./img/js-window-calc.jpg "Калькулятор пластиковых окон на js")
+
+<br />
+---
+<br />
+
+- [**Мини-корзина**](./minibasket-master.zip)
+![](./img/mini-basket.jpg "Мини-корзина")
+
+<br />
+---
+<br />
+
 
 
 
