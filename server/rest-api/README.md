@@ -5,4 +5,4 @@
 ![](../img/rest-api.jpg "rest-api")
 
 
-#### [Перейти в начало](https://github.com/tsvetkovpro/sources)
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources#server)
