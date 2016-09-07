@@ -3,9 +3,9 @@
 ## Разделы:
 
 - [Web development](#web-dev)
-- [Mobile](#mobile)
-- [Desktop](#desktop)
 - [Server](#server)
+- [Desktop](#desktop)
+- [Mobile](#mobile)
 
 <br />
 ---
