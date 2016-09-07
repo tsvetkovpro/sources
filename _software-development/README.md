@@ -20,17 +20,7 @@
 ![](./examples/img/rest-api.jpg "Rest-api")
 
 
----
 
-
-- [**Пример парснга *.csv файлов**](./examples/parsing-csv)
-
-*Пример парсинга данных из excel и построение html-таблицы из них*
-
-![](./examples/img/parsing-csv.jpg "parsing-csv")
-
-
----
 
 
 - [**Парсинг html страницы**](./examples/parce.html)
