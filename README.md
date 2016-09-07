@@ -39,9 +39,7 @@
 
 options are available:
 
-- [1]()
-- [2]()
-- [3]()
+- [Electron, VueJs, and Firebase](./desktop/bookmarking-app-electron-vuejs-firebase)
 
 
 <br />
