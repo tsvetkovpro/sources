@@ -27,7 +27,7 @@
 
 - [1]()
 - [2]()
-- [Инструменты](./web-development/tools)
+- [Инструменты](./server/tools)
 
 <br />
 ---
