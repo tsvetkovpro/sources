@@ -12,7 +12,7 @@
 
 - [Завершённые проекты](./web-development/projects-done)
 - [2]()
-- [3]()
+- [Инструменты](./web-development/tools)
 
 
 ## Mobile
