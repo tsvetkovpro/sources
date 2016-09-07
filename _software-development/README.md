@@ -9,18 +9,7 @@
 
 ---
 
-- [**Структуры данных реализованные на js**](./examples/itsy-bitsy-data-structures-master)
 
-1 List <br />
-2 HashTable <br />
-3 Stack <br />
-4 Queue <br />
-5 Graph <br />
-6 LinkedList <br />
-7 Tree <br />
-8 BinarySearchTree <br />
-
----
 
 
 
