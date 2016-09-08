@@ -128,14 +128,6 @@
 ---
 
 
-5. [D3.js - визуализация карты](./d3js-map-visualization.zip)
-
-![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
-
-
----
-
-
 5. [Morris.js - графики](http://morrisjs.github.io/morris.js/)
 
 ![alt text](./img/morris.jpg "Morris.js")
