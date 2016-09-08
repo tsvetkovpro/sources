@@ -1,0 +1,62 @@
+---
+
+
+1. [Обыкновенный JavaScript репозиторий](http://www.vanillalist.com/)
+
+*Потому что иногда лучше без jQuery*
+
+![alt text](./img/Vanilla.jpg "Vanilla Javascript")
+
+
+
+
+
+
+5. [D3.js - визуализация карты](./d3js-map-visualization.zip)
+
+![alt text](./img/d3js-map-visualization.jpg "D3.js map visualization")
+
+
+
+
+
+
+---
+
+3. [Панорама](./panorama.zip)
+
+*Стройтельство блоков виртуальной реальности в вэб. работает на ПК, iOS, Android, очках виртуальной реальности Oculus Rift.* [Ссылка на проект](https://aframe.io/)
+
+![alt text](./img/panorama.jpg "Panorama")
+
+
+
+
+
+11. [20 jQuery слайдеров](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

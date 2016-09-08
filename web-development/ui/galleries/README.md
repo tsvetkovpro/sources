@@ -2,15 +2,6 @@
 
 <br />
 
----
-
-
-1. [Обыкновенный JavaScript репозиторий](http://www.vanillalist.com/)
-
-*Потому что иногда лучше без jQuery*
-
-![alt text](./img/Vanilla.jpg "Vanilla Javascript")
-
 
 ---
 
@@ -27,14 +18,6 @@
 
 ![alt text](./img/GammaGallery.jpg "Gamma Gallery")
 
-
----
-
-3. [Панорама](./panorama.zip)
-
-*Стройтельство блоков виртуальной реальности в вэб. работает на ПК, iOS, Android, очках виртуальной реальности Oculus Rift.* [Ссылка на проект](https://aframe.io/)
-
-![alt text](./img/panorama.jpg "Panorama")
 
 ---
 
@@ -81,59 +64,6 @@
 
 ![alt text](./img/lightgallery.JPG "Lightgallery")
 
-
----
-
-
-11. [20 jQuery слайдеров](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)
-
-
----
-
-<br />
-<br />
-<br />
-<br />
-
-
-7. [Сравнение продуктов](./product-comparison.zip)
-
-![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
-
-
----
-
-
-8. [Интерективные интерьер](./room-display.zip)
-
-![alt text](./img/RoomDisplay.jpg "Room Display")
-
-
----
-
-
-10. [Вертикальная временная шкала](./vertical-timeline.zip)
-
-![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
-
-
----
-
-
-9. [Миниатюрная сетка с расширенным просмотром](./thumbnail-grid-expanding-preview.zip)
-
-![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
-
-
----
-
-
-5. [Morris.js - графики](http://morrisjs.github.io/morris.js/)
-
-![alt text](./img/morris.jpg "Morris.js")
-
-
----
 
 
 
