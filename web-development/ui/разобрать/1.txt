@@ -45,6 +45,61 @@
 
 
 
+<br />
+<br />
+<br />
+<br />
+
+
+7. [Сравнение продуктов](./product-comparison.zip)
+
+![alt text](./img/BlueprintProductComparison.jpg "Product Comparison")
+
+
+---
+
+
+8. [Интерективные интерьер](./room-display.zip)
+
+![alt text](./img/RoomDisplay.jpg "Room Display")
+
+
+---
+
+
+10. [Вертикальная временная шкала](./vertical-timeline.zip)
+
+![alt text](./img/Blueprint_TimelineStyle.jpg "Vertical Timeline")
+
+
+---
+
+
+9. [Миниатюрная сетка с расширенным просмотром](./thumbnail-grid-expanding-preview.zip)
+
+![alt text](./img/ThumbnailGridExpandingPreview.jpg "Thumbnail Grid")
+
+
+---
+
+
+5. [Morris.js - графики](http://morrisjs.github.io/morris.js/)
+
+![alt text](./img/morris.jpg "Morris.js")
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 

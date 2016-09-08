@@ -3,8 +3,6 @@
 <br />
 
 
----
-
 
 1. [Эффект круговой навигации с CSS3](./circle-navigation-effect.zip)
 
@@ -62,8 +60,8 @@
 
 *JavaScript галлерея, с полным набором возможностей, без зависимостей*
 
-![alt text](./img/lightgallery.JPG "Lightgallery")
+![alt text](./img/lightgallery.jpg "Lightgallery")
 
 
 
-
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources#web-dev)
