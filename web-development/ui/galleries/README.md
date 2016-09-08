@@ -4,7 +4,7 @@
 
 
 
-1. [Эффект круговой навигации с CSS3](./circle-navigation-effect.zip)
+1. [**Эффект круговой навигации с CSS3**](./circle-navigation-effect.zip)
 
 ![alt text](./img/CircleNavigationEffect.jpg "Circle Navigation Effect with CSS3")
 
@@ -14,7 +14,7 @@
 <br />
 
 
-2. [Гамма галерея](./gamma-gallery.zip)
+2. [**Гамма галерея**](./gamma-gallery.zip)
 
 ![alt text](./img/GammaGallery.jpg "Gamma Gallery")
 
@@ -24,7 +24,7 @@
 <br />
 
 
-4. [Простая галлерея](./simple-lightbox.zip)
+4. [**Простая галлерея**](./simple-lightbox.zip)
 
 *Дружественная к мобильным устройствам галлерея, с jQuery*
 
@@ -36,7 +36,7 @@
 <br />
 
 
-6. [Highslide JS](./high-slide.zip)
+6. [**Highslide JS**](./high-slide.zip)
 
 *Медиа галлерея написанная на JavaScript*
 
