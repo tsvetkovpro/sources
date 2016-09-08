@@ -7,9 +7,11 @@
 - [Desktop](#desktop)
 - [Mobile](#mobile)
 
+
 <br />
 ---
 <br />
+
 
 ## Web development
 Создание веб-сайта или веб-приложения. Основными этапами процесса являются *веб-дизайн*, *вёрстка веб-страниц*, *программирование для веб на стороне клиента*.
@@ -19,9 +21,11 @@
 - [Инструменты](./web-development/tools)
 - [Ссылки, полезная информация](./web-development/links.md)
 
+
 <br />
 ---
 <br />
+
 
 ## Server
 Программирование на стороне и сервера. Архитектура приложения, взаимодействие с базой данных - сохраннение, сортировка данных.
@@ -39,9 +43,15 @@
 - [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
 - [A set of Node Tasklist APIs which explores some databases and web frameworks](https://github.com/caio-ribeiro-pereira/node-api-examples)
 
+**Полезные ссылки**
+
+- [Awesome Node.js](https://github.com/dypsilon/awesome-nodejs)
+- [Awesome Sysadmin](https://github.com/dypsilon/awesome-sysadmin)
+
 <br />
 ---
 <br />
+
 
 ## Desktop
 Примеры приложений для десктопа

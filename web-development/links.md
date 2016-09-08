@@ -1,20 +1,20 @@
+<br />
+---
+<br />
+
+
 - [Asynchronous javascript code with different paradigms](https://github.com/nin-jin/async-js)
 - [Обыкновенный JavaScript репозиторий](http://www.vanillalist.com/)
 - [Красивое программирование](http://beautifulprogramming.com)
 
-
 - [Социальная сеть - хоороший пример будущего развития технологий](https://www.bizpoint.com/)
-- [События KeyboardEvents](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)
-- [Шпаргалка по бутстрапу, версии 4](http://hackerthemes.com/bootstrap-cheatsheet)
 - [Atrament.js - маленькая библиотека для рисования руками на холсте (html->canvas)](http://hackerthemes.com/bootstrap-cheatsheet)
 
 
 
-
-
-
-
-
+<br />
+---
+<br />
 
 
 **Meteor**
@@ -22,21 +22,15 @@
 * [Примеры приложений на метеоре](https://www.meteor.com/showcase)
 
 
+<br />
+---
+<br />
 
-## Backend
-
-
-
-
-
-
-**Разное**
-
-
-
-* [Курируемы список сильных фронтенд разработчиков](https://github.com/talgautb/frontenders)
 
 **Сообщества**
+
+* [Курируемы список сильных фронтенд разработчиков](https://github.com/talgautb/frontenders)
+* [Manually curated collection of resources for frontend web developers - https://frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 * [Slack-сообщество для разработчиков на PHP](https://phpchat.co/)
 * [Сообщество разработчиков чат-ботов для Slack](http://dev4slack.xoxco.com/)
