@@ -42,7 +42,7 @@
 
 
 
-#### [Перейти в начало](./../../software-development/README.md)
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources#web-dev)
 
 
 
