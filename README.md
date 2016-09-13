@@ -8,6 +8,9 @@
 - [Mobile](#mobile)
 
 
+![](./stack.png "stack")
+
+
 <br />
 ---
 <br />
