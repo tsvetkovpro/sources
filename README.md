@@ -2,7 +2,7 @@
 
 ## Разделы:
 
-- [Web_development](#web-dev)
+- [Web-development](#web-development)
 - [Server](#server)
 - [Desktop](#desktop)
 - [Mobile](#mobile)
@@ -16,7 +16,7 @@
 <br />
 
 
-## Web_development
+## Web-development
 Создание веб-сайта или веб-приложения. Основными этапами процесса являются *веб-дизайн*, *вёрстка веб-страниц*, *программирование для веб на стороне клиента*.
 
 - [Завершённые проекты](./web-development/projects-done)
