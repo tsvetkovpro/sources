@@ -3,7 +3,7 @@
 
 1. [**Arbeitbot**](./arbeitbot.zip)
 
-![alt text](./img/arbeitbot.png "arbeitbot")
+![alt text](./img/arbeitbot1.png "arbeitbot")
 
 
 <br />
