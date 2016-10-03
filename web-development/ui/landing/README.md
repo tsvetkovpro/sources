@@ -1,6 +1,16 @@
 # Содержание:
 
 
+1. [**Json resume**](./jsonresume.zip)
+
+![alt text](./img/jsonresume.png "jsonresume")
+
+
+<br />
+---
+<br />
+
+
 1. [**Arbeitbot**](./arbeitbot.zip)
 
 ![alt text](./img/arbeitbot1.png "arbeitbot")
