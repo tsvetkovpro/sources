@@ -7,7 +7,7 @@
 
 - [Стартовый шаблон, для скоростной вёрстки](./optimizedhtml)
 
-- [Secure tunnels to localhost](https://ngrok.com/) 
+- [Проброс локального сервера за NAT или брандмауэрем в интернет](https://ngrok.com/) 
 
 - [SQL клиент](https://github.com/sqlectron/sqlectron-gui)
 
