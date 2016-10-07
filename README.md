@@ -36,23 +36,10 @@
 ## Server
 Программирование на стороне и сервера. Архитектура приложения, взаимодействие с базой данных - сохраннение, сортировка данных.
 
-- [Структуры данных, реализованные на javascript](./server/itsy-bitsy-data-structures-master)
-- [Пример парснга *.csv файлов и вывода данных на страницу](./server/parsing-csv)
-- [Парсинг любой html страницы, используя прокси-сервер](./server/parce.html)
-- [VueJS 2.0, Express, and Passport](./server/vuejs2-authentication)
-- [Инструменты](./server/tools)
+- [Примеры приложений](./server)
+- [Инструменты](./tools)
+- [Ссылки](./links)
 
-**Rest API**
-
-- [Rest-api client](./server/rest-api)
-- [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
-- [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
-- [A set of Node Tasklist APIs which explores some databases and web frameworks](https://github.com/caio-ribeiro-pereira/node-api-examples)
-
-**Полезные ссылки**
-
-- [Awesome Node.js](https://github.com/dypsilon/awesome-nodejs)
-- [Awesome Sysadmin](https://github.com/dypsilon/awesome-sysadmin)
 
 <br />
 ---
