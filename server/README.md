@@ -6,7 +6,6 @@
 - [Пример парснга *.csv файлов и вывода данных на страницу](./parsing-csv)
 - [Парсинг любой html страницы, используя прокси-сервер](./parce.html)
 - [VueJS 2.0, Express, and Passport](./vuejs2-authentication)
-- [Инструменты](./tools)
 
 **Rest API**
 
