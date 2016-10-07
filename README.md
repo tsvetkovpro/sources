@@ -9,8 +9,6 @@
 
 
 <br />
----
-<br />
 
 
 ![](./stack.png "stack")
