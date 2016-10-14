@@ -1,27 +1,12 @@
-**Яваскрипт**
+п»ї**РЇРІР°СЃРєСЂРёРїС‚**
 
 - [Asynchronous javascript code with different paradigms](https://github.com/nin-jin/async-js)
 
-- [Обыкновенный JavaScript репозиторий](http://www.vanillalist.com/)
+- [РћР±С‹РєРЅРѕРІРµРЅРЅС‹Р№ JavaScript СЂРµРїРѕР·РёС‚РѕСЂРёР№](http://www.vanillalist.com/)
 
-- [Красивое программирование](http://beautifulprogramming.com)
+- [РљСЂР°СЃРёРІРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ](http://beautifulprogramming.com)
 
-- [Atrament.js - маленькая библиотека для рисования руками на холсте (html->canvas)](http://fiala.uk/atrament.js/demo/)
-
-
-<br />
----
-<br />
-
-
-**Сервисы**
-
-
-- [Сканер безопасности сайта от Mozilla](https://observatory.mozilla.org)
-
-- [Социальная сеть - хоороший пример будущего развития технологий](https://www.bizpoint.com/)
-
-- [Онлайн проект-менеджер](https://waffle.io/)
+- [Atrament.js - РјР°Р»РµРЅСЊРєР°СЏ Р±РёР±Р»РёРѕС‚РµРєР° РґР»СЏ СЂРёСЃРѕРІР°РЅРёСЏ СЂСѓРєР°РјРё РЅР° С…РѕР»СЃС‚Рµ (html->canvas)](http://fiala.uk/atrament.js/demo/)
 
 
 <br />
@@ -29,16 +14,31 @@
 <br />
 
 
-**Ссылки**
+**РЎРµСЂРІРёСЃС‹**
 
 
-* [Список инструментов / библиотек](https://github.com/moklick/frontend-stuff#table-of-contents)
+- [РЎРєР°РЅРµСЂ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё СЃР°Р№С‚Р° РѕС‚ Mozilla](https://observatory.mozilla.org)
 
-* [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
+- [РЎРѕС†РёР°Р»СЊРЅР°СЏ СЃРµС‚СЊ - С…РѕРѕСЂРѕС€РёР№ РїСЂРёРјРµСЂ Р±СѓРґСѓС‰РµРіРѕ СЂР°Р·РІРёС‚РёСЏ С‚РµС…РЅРѕР»РѕРіРёР№](https://www.bizpoint.com/)
 
-* [События KeyboardEvents](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)
+- [РћРЅР»Р°Р№РЅ РїСЂРѕРµРєС‚-РјРµРЅРµРґР¶РµСЂ](https://waffle.io/)
 
-* [Шпаргалка по бутстрапу, версии 4](http://hackerthemes.com/bootstrap-cheatsheet)
+
+<br />
+---
+<br />
+
+
+**РЎСЃС‹Р»РєРё**
+
+
+* [РЎРїРёСЃРѕРє РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ / Р±РёР±Р»РёРѕС‚РµРє](https://github.com/moklick/frontend-stuff#table-of-contents)
+
+* [РџРѕР»РµР·РЅС‹Рµ СЂРµСЃСѓСЂСЃС‹ РґР»СЏ РІСЌР±-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°](https://github.com/dmytroyarmak/frontend-dev-resources)
+
+* [РЎРѕР±С‹С‚РёСЏ KeyboardEvents](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)
+
+* [РЁРїР°СЂРіР°Р»РєР° РїРѕ Р±СѓС‚СЃС‚СЂР°РїСѓ, РІРµСЂСЃРёРё 4](http://hackerthemes.com/bootstrap-cheatsheet)
 
 <br />
 ---
@@ -47,7 +47,7 @@
 
 **Meteor**
 
-* [Примеры приложений на метеоре](https://www.meteor.com/showcase)
+* [РџСЂРёРјРµСЂС‹ РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° РјРµС‚РµРѕСЂРµ](https://www.meteor.com/showcase)
 
 
 <br />
@@ -55,40 +55,29 @@
 <br />
 
 
-**Сообщества разработчиков**
+**РЎРѕРѕР±С‰РµСЃС‚РІР° СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ**
 
-* [Курируемы список сильных фронтенд разработчиков](https://github.com/talgautb/frontenders)
+* [РљСѓСЂРёСЂСѓРµРјС‹ СЃРїРёСЃРѕРє СЃРёР»СЊРЅС‹С… С„СЂРѕРЅС‚РµРЅРґ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ](https://github.com/talgautb/frontenders)
 
 * [Manually curated collection of resources for frontend web developers - https://frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-* [Slack-сообщество для разработчиков на PHP](https://phpchat.co/)
+* [Slack-СЃРѕРѕР±С‰РµСЃС‚РІРѕ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ РЅР° PHP](https://phpchat.co/)
 
-* [Сообщество разработчиков чат-ботов для Slack](http://dev4slack.xoxco.com/)
+* [РЎРѕРѕР±С‰РµСЃС‚РІРѕ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ С‡Р°С‚-Р±РѕС‚РѕРІ РґР»СЏ Slack](http://dev4slack.xoxco.com/)
 
-* [Виртуальная, дополненная и смешанная реальности](https://notiontheory.typeform.com/to/QzZmAD)
+* [Р’РёСЂС‚СѓР°Р»СЊРЅР°СЏ, РґРѕРїРѕР»РЅРµРЅРЅР°СЏ Рё СЃРјРµС€Р°РЅРЅР°СЏ СЂРµР°Р»СЊРЅРѕСЃС‚Рё](https://notiontheory.typeform.com/to/QzZmAD)
 
-* [Одно из крупнейших Slack-сообщество для разработчиков на языке Go](https://gophersinvite.herokuapp.com/)
+* [РћРґРЅРѕ РёР· РєСЂСѓРїРЅРµР№С€РёС… Slack-СЃРѕРѕР±С‰РµСЃС‚РІРѕ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ РЅР° СЏР·С‹РєРµ Go](https://gophersinvite.herokuapp.com/)
 
-* [Русскоязычное Slack-сообщество для разработчиков](https://rusdevs.herokuapp.com/)
+* [Р СѓСЃСЃРєРѕСЏР·С‹С‡РЅРѕРµ Slack-СЃРѕРѕР±С‰РµСЃС‚РІРѕ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ](https://rusdevs.herokuapp.com/)
 
-* [Сообщество для фрилансеров и удаленных работников со всего мира](https://join.nomadlist.com/)
-
-
-
-
-#### [Перейти в начало](https://github.com/tsvetkovpro/sources#web-dev)
-#### [Назад](https://github.com/tsvetkovpro/sources/tree/master/web-development)
+* [РЎРѕРѕР±С‰РµСЃС‚РІРѕ РґР»СЏ С„СЂРёР»Р°РЅСЃРµСЂРѕРІ Рё СѓРґР°Р»РµРЅРЅС‹С… СЂР°Р±РѕС‚РЅРёРєРѕРІ СЃРѕ РІСЃРµРіРѕ РјРёСЂР°](https://join.nomadlist.com/)
 
 
 
 
-
-
-
-
-
-
-
+#### [РџРµСЂРµР№С‚Рё РІ РЅР°С‡Р°Р»Рѕ](https://github.com/tsvetkovpro/sources#web-dev)
+#### [РќР°Р·Р°Рґ](https://github.com/tsvetkovpro/sources/tree/master/web-development)
 
 
 
