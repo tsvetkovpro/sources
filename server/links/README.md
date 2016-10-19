@@ -8,6 +8,7 @@
 
 - [Awesome Node.js](https://github.com/dypsilon/awesome-nodejs)
 - [Awesome Sysadmin](https://github.com/dypsilon/awesome-sysadmin)
+- [Рецепты js](./jsrecipes.zip). source - https://githubad.com/sahat/jsrecipes
 
 
 
