@@ -1,7 +1,7 @@
 # SOLID-JavaScript
 
 
-1. Single responsibility principle (Принцип единственной обязанности)
+1. [Single responsibility principle](./SRP/2/relationships.js) (Принцип единственной обязанности)
 
 2. Open closed principle (Мы открыты для расширения, но закрыты для модификации)
 
