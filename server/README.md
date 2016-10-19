@@ -7,6 +7,10 @@
 - [Парсинг любой html страницы, используя прокси-сервер](./parce.html)
 - [Пример авторизации на nodeJS](./vuejs2-authentication)
 
+
+--
+<br />
+
 **Rest API**
 
 - [Чистый JavaScript REST API клиент](./rest-api)
@@ -14,9 +18,20 @@
 - [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
 - [A set of Node Tasklist APIs which explores some databases and web frameworks](https://github.com/caio-ribeiro-pereira/node-api-examples)
 
+
+
+--
+<br />
+
+
 **S.O.L.I.D принципы**
 
 - [Принципы разработки ПО](./solid)
+
+
+<br />
+--
+<br />
 
 
 **to do**
