@@ -2,10 +2,37 @@
 
 ## Разделы:
 
-- [Web-development](#web-development)
-- [Server](#server)
-- [Desktop](#desktop)
-- [Mobile](#mobile)
+### [Web-development](#web-development)
+		
+- [Завершённые проекты](./web-development/projects-done)
+- [Компоненты пользовательского интерфейса](./web-development/ui)
+- [Инструменты](./web-development/tools)
+- [Ссылки, полезная информация](./web-development/links.md)
+
+
+---
+
+
+### [Server](#server)
+
+- [Примеры приложений](./server)
+- [Инструменты](./server/tools)
+- [Ссылки](./server/links)
+
+
+---
+
+
+
+### [Desktop](#desktop)
+- [Закладки (electron, vue, firebase)](./desktop/bookmarking-app-electron-vuejs-firebase)
+- [Нативные приложения из html, css, js](https://www.npmjs.com/package/nativefier)
+
+
+---
+
+
+### [Mobile](#mobile)
 
 
 <br />
@@ -18,50 +45,6 @@
 ---
 <br />
 
-
-## Web-development
-Создание веб-приложений. Основными этапами процесса являются *веб-дизайн*, *вёрстка веб-страниц*, *программирование для веб на стороне клиента*.
-
-- [Завершённые проекты](./web-development/projects-done)
-- [Компоненты пользовательского интерфейса](./web-development/ui)
-- [Инструменты](./web-development/tools)
-- [Ссылки, полезная информация](./web-development/links.md)
-
-
-<br />
----
-<br />
-
-
-## Server
-Программирование на стороне и сервера. Архитектура приложения, взаимодействие с базой данных - сохраннение, сортировка данных.
-
-- [Примеры приложений](./server)
-- [Инструменты](./server/tools)
-- [Ссылки](./server/links)
-
-
-<br />
----
-<br />
-
-
-## Desktop
-Примеры приложений для десктопа
-
-- [Закладки (electron, vue, firebase)](./desktop/bookmarking-app-electron-vuejs-firebase)
-- [Нативные приложения из html, css, js](https://www.npmjs.com/package/nativefier)
-
-
-<br />
----
-<br />
-
-
-## Mobile
-:
-
-- []()
 
 
 

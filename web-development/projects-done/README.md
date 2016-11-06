@@ -2,9 +2,16 @@
 
 <br />
 
-- [**lfood**](./lfood.zip)
+- [**lfood**](https://github.com/tsvetkovpro/l-food)
 
 ![](./img/lfood.png "lfood")
+
+
+<br />
+
+- [**lfood blog**](https://github.com/tsvetkovpro/l-food-blog)
+
+![](https://github.com/tsvetkovpro/l-food-blog/blob/master/l-food-blog/img.JPG "lfood")
 
 
 <br />
