@@ -1,8 +1,7 @@
 #### исходные коды приложений и модулей, используемых для быстрого старта вэб-разработки.
 
-## Разделы:
 
-### [Web-development](#web-development)
+### Web-development
 		
 - [Завершённые проекты](./web-development/projects-done)
 - [Компоненты пользовательского интерфейса](./web-development/ui)
@@ -13,7 +12,7 @@
 ---
 
 
-### [Server](#server)
+### Server
 
 - [Примеры приложений](./server)
 - [Инструменты](./server/tools)
@@ -24,7 +23,7 @@
 
 
 
-### [Desktop](#desktop)
+### Desktop
 - [Закладки (electron, vue, firebase)](./desktop/bookmarking-app-electron-vuejs-firebase)
 - [Нативные приложения из html, css, js](https://www.npmjs.com/package/nativefier)
 
@@ -32,7 +31,7 @@
 ---
 
 
-### [Mobile](#mobile)
+### Mobile
 
 
 <br />
