@@ -2,8 +2,7 @@
 
 <br />
 
-- [Компоненты](./components)
-- [Лендинги](./landing)
+- [Лендинги](https://github.com/tsvetkovpro/landings)
 - [Фото галереи](./galleries)
 - [Иконки](./icons)
 - [Визуализация информации](./visualization)
