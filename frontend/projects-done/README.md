@@ -11,7 +11,7 @@
 
 ---
 
-- [**Сайт портфолио компании Архитек**](https://github.com/tsvetkovpro/arch)
+- [**Сайт портфолио**](https://github.com/tsvetkovpro/arch) - Лендинг компании Архитек
 
 ---
 
