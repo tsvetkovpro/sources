@@ -1,4 +1,4 @@
-### Web-development
+### Front-end
 		
 - [Завершённые проекты](./web-development/projects-done)
 - [Компоненты пользовательского интерфейса](./web-development/ui)
@@ -9,7 +9,7 @@
 ---
 
 
-### Server
+### Backend
 
 - [Примеры приложений](./server)
 - [Инструменты](./server/tools)
@@ -29,7 +29,8 @@
 
 
 ### Mobile
-
+- 
+- 
 
 ---
 

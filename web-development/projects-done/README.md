@@ -2,17 +2,8 @@
 
 <br />
 
-- [**lfood**](https://github.com/tsvetkovpro/l-food)
-
-![](./img/lfood.png "lfood")
-
-
-<br />
-
-- [**lfood blog**](https://github.com/tsvetkovpro/l-food-blog)
-
-![](https://github.com/tsvetkovpro/l-food-blog/blob/master/l-food-blog/img.JPG "lfood")
-
+- [**http://l-food.ru/**](https://github.com/tsvetkovpro/l-food) - Лендинг для доставки еды в Оренбурге
+- [**http://blog.l-food.ru/**](https://github.com/tsvetkovpro/l-food-blog) - Блог, для доставки еды в оренбурге
 
 <br />
 
