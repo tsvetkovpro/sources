@@ -4,7 +4,7 @@
 
 - [Лендинги](https://github.com/tsvetkovpro/landings)
 - [Фото галереи](https://github.com/tsvetkovpro/photo-galleries)
-- [Иконки](./icons)
+- [Иконки](https://github.com/tsvetkovpro/icons)
 - [Визуализация информации](./visualization)
 
 <br />
