@@ -5,15 +5,11 @@
 - [**http://l-food.ru/**](https://github.com/tsvetkovpro/l-food) - Лендинг для доставки еды в Оренбурге
 - [**http://blog.l-food.ru/**](https://github.com/tsvetkovpro/l-food-blog) - Блог, для доставки еды в оренбурге
 
-<br />
 ---
-<br />
 
 - [**Ekey.ru**](./ekey) - База данных клиентов компании. (добавление, удаление, поиск)
 
-<br />
 ---
-<br />
 
 - [**Сайт портфолио компании Архитек**](./project-arch.zip)
 
