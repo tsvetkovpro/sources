@@ -1,9 +1,9 @@
-### Front-end
+### Frontend
 		
-- [Архив завершенных проектов](./web-development/projects-done)
-- [Компоненты пользовательского интерфейса](./web-development/ui)
-- [Инструменты](./web-development/tools)
-- [Ссылки, полезная информация](./web-development/links.md)
+- [Архив завершенных проектов](./frontend/projects-done)
+- [Компоненты пользовательского интерфейса](./frontend/ui)
+- [Инструменты](./frontend/tools)
+- [Ссылки, полезная информация](./frontend/links.md)
 
 
 ---
