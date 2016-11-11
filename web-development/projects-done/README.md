@@ -6,16 +6,16 @@
 - [**http://blog.l-food.ru/**](https://github.com/tsvetkovpro/l-food-blog) - Блог, для доставки еды в оренбурге
 
 <br />
+---
+<br />
 
-- [**Ekey.ru**](./ekey77.7z)
-
-![](./img/ekey.jpg "Ekey")
+- [**Ekey.ru**](./ekey) - База данных клиентов компании. (добавление, удаление, поиск)
 
 <br />
 ---
 <br />
 
-- [**Сайт портфолио Архитека**](./project-arch.zip)
+- [**Сайт портфолио компании Архитек**](./project-arch.zip)
 
 ![](./img/pmat.jpg "Архитек")
 
