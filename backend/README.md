@@ -4,7 +4,7 @@
 
 - [Структуры данных, реализованные на javascript](https://github.com/tsvetkovpro/data-structures)
 - [Пример парснга *.csv файлов и вывода данных на страницу](https://github.com/tsvetkovpro/parsing-csv)
-- [Парсинг любой html страницы, используя прокси-сервер](./parce.html)
+- [Парсинг любой html страницы, используя прокси-сервер](https://github.com/tsvetkovpro/parce-html)
 - [Пример авторизации на nodeJS](./vuejs2-authentication)
 
 
