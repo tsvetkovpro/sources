@@ -24,7 +24,7 @@
 **Скрипты**
 
 * [Скрипты резервного копирования](https://github.com/tsvetkovpro/backup-scripts)
-* [Команды для консоли](./console.md)
+* [Команды для консоли](./console.sh)
 
 
 <br />
