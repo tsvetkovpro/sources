@@ -13,9 +13,9 @@
 **Rest API**
 
 - [Pure JavaScript REST API client](https://github.com/tsvetkovpro/rest-api)
+- [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
 - [JavaScript/JSON objects to REST API in seconds.](https://github.com/soygul/js-api)
 - [Sample project for jsgrid with ExpressJS REST service](https://github.com/tabalinas/jsgrid-express)
-- [Simple pure JavaScript REST API client](https://github.com/Amareis/another-rest-client)
 - [A set of Node Tasklist APIs which explores some databases and web frameworks](https://github.com/caio-ribeiro-pereira/node-api-examples)
 
 
@@ -26,7 +26,7 @@
 
 **S.O.L.I.D принципы**
 
-- [Принципы разработки ПО](./solid)
+- [Принципы разработки ПО](https://github.com/tsvetkovpro/solid)
 
 
 <br />
