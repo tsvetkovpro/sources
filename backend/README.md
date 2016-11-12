@@ -2,8 +2,8 @@
 
 **Примеры**
 
-- [Структуры данных, реализованные на javascript](./itsy-bitsy-data-structures-master)
-- [Пример парснга *.csv файлов и вывода данных на страницу](./parsing-csv)
+- [Структуры данных, реализованные на javascript](https://github.com/tsvetkovpro/data-structures)
+- [Пример парснга *.csv файлов и вывода данных на страницу](https://github.com/tsvetkovpro/parsing-csv)
 - [Парсинг любой html страницы, используя прокси-сервер](./parce.html)
 - [Пример авторизации на nodeJS](./vuejs2-authentication)
 
