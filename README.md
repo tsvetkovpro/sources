@@ -13,7 +13,7 @@
 
 - [Примеры приложений](./backend)
 - [Инструменты](./backend/tools)
-- [Ссылки](./backend/links)
+- [Ссылки](./backend/links.md)
 
 
 ---
