@@ -21,8 +21,8 @@
 
 
 ### Desktop
-- [Закладки (electron, vue, firebase)](./desktop/bookmarking-app-electron-vuejs-firebase)
-- [Нативные приложения из html, css, js](https://www.npmjs.com/package/nativefier)
+
+- [Примеры приложений](./desktop)
 
 
 ---
