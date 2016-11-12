@@ -11,9 +11,9 @@
 
 ### Backend
 
-- [Примеры приложений](./server)
-- [Инструменты](./server/tools)
-- [Ссылки](./server/links)
+- [Примеры приложений](./backend)
+- [Инструменты](./backend/tools)
+- [Ссылки](./backend/links)
 
 
 ---
