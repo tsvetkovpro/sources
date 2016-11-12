@@ -15,7 +15,7 @@
 
 ---
 
-* [Build APIs Faster](https://www.getpostman.com/)
+* [Постман - Тестирование Api](https://www.getpostman.com/)
 
 
 <br />
