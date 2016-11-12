@@ -15,7 +15,7 @@
 
 ---
 
-* [Постман - Тестирование Api](https://www.getpostman.com/)
+* [Тестирование Api](https://www.getpostman.com/)
 
 
 <br />
