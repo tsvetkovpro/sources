@@ -5,7 +5,7 @@
 
 - [Настроенный Sublime 3](https://github.com/tsvetkovpro/ide)
 
-- [Стартовый шаблон, для скоростной вёрстки](./optimizedhtml)
+- [Стартовый шаблон, для скоростной вёрстки](https://github.com/tsvetkovpro/fast-frontend)
 
 
 
