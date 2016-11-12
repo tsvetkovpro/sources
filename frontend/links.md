@@ -122,8 +122,7 @@
 <br />
 
 
-#### [Перейти в начало](https://github.com/tsvetkovpro/sources#web-dev)
-#### [Назад](https://github.com/tsvetkovpro/sources/tree/master/web-development)
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources)
 
 
 
