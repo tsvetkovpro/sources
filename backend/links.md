@@ -6,7 +6,7 @@
 
 **Ссылки**
 
-- [Awesome Node.js](https://github.com/dypsilon/awesome-nodejs)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Sysadmin](https://github.com/dypsilon/awesome-sysadmin)
 - [Рецепты js](https://github.com/tsvetkovpro/jsrecipes)
 
