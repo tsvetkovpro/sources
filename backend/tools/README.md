@@ -11,7 +11,7 @@
 ---
 
 * [SQL клиент](https://github.com/sqlectron/sqlectron-gui)
-* [The GUI for MongoDB](http://3t.io/mongochef/)
+* [Клиент для MongoDB](http://3t.io/mongochef/)
 
 ---
 
