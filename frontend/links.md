@@ -40,9 +40,9 @@
 
 - [Полезные ресурсы для вэб-разработчика](https://github.com/dmytroyarmak/frontend-dev-resources)
 
-- [События KeyboardEvents](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)
+- [YouTube channels for frontend developers](https://github.com/andrew--r/channels)
 
-- [Шпаргалка по бутстрапу, версии 4](http://hackerthemes.com/bootstrap-cheatsheet)
+- [Cписок полезных ресурсов для разработчиков интерфейсов](https://github.com/andrew--r/frontend-whitelist)
 
 <br />
 ---

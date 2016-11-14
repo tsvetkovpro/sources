@@ -1,0 +1,99 @@
+# YouTube channels for frontend developers
+
+A collection of useful YouTube channels for javascript developers and web designers.
+
+Feel free to make a pull request with missing channel.
+
+- [English language channels](#english-language-channels)
+	- [Conferences recordings](#conferences-recordings)
+- [–усско€зычные каналы](#–усско€зычные-каналы)
+	- [«аписи с конференций и митапов](#«аписи-с-конференций-и-митапов)
+
+## English language channels
+
+- [Google Developers](http://www.youtube.com/user/GoogleDevelopers) Ч tools, accessibility, events recordings;
+- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) Ч JavaScript, ES6, functional programming, programming practices;
+- [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) Ч HTML, Stylus, CSS, Sass;
+- [DevTips](http://www.youtube.com/user/DevTipsForDesigners) Ч Foundation, CSS, RWD;
+- [LearnCode.academy](http://www.youtube.com/user/learncodeacademy) Ч JavaScript, jQuery, React, Node.js, MEAN;
+- [LearnWebCode](http://www.youtube.com/user/LearnWebCode) Ч RWD, HTML, CSS, JavaScript, jQuery;
+- [thenewboston](http://www.youtube.com/user/thenewboston) Ч HTML5, JavaScript, Node.js, Angular;
+- [mjdwebdesign](http://www.youtube.com/user/mjdwebdesign) Ч CSS, HTML, JavaScript;
+- [Treehouse](http://www.youtube.com/user/gotreehouse) Ч CSS, HTML, JavaScript;
+- [Helping Develop](http://www.youtube.com/user/TheHelpingDevelop) Ч jQuery, HTML, CSS;
+- [Sass Bites Podcast](http://www.youtube.com/user/sassbites) Ч Sass;
+- [Derek Banas](http://www.youtube.com/user/derekbanas) Ч JavaScript, Design Patterns;
+- [Dr Richard Stibbard](http://www.youtube.com/user/webinaction) Ч jQuery UI;
+- [Coder's Guide](http://www.youtube.com/user/CodersGuide) Ч HTML, CSS, Bootstrap, RWD, JavaScript;
+- [easydevtuts](http://www.youtube.com/user/easydevtuts) Ч Bootstrap, Foundation, Sass;
+- [Quentin Watt](http://www.youtube.com/user/QuentinWatt) Ч HTML, CSS, Bootstrap, JavaScript;
+- [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) Ч JavaScript, Coding Principles;
+- [Design Code Blade Nepal](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) Ч CSS, JavaScript, Node.js, Angular;
+- [George Mcknight](https://www.youtube.com/user/geomck1967) Ч building social network with Meteor and React;
+- [Chris Coyier](http://www.youtube.com/user/realcsstricks) Ч HTML, CSS, JavaScript, a lot of screencasts;
+- [SitePoint](https://www.youtube.com/user/SitePoint) Ч HTML, CSS, JavaScript, Sass, Web Design;
+- [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) Ч JavaScript, React;
+- [Jakob Jenkov](https://www.youtube.com/user/jjenkov) Ч SVG'
+- [Daniel Stern](https://www.youtube.com/channel/UC5ohWghqu1C7bYAq_IDBkIw) Ч JavaScript, Node.js;
+- [Front End TV](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) Ч JavaScript, ES6, Node.js;
+- [The Web Platform Podcast](https://www.youtube.com/channel/UCjz3j22CyBpy6Qk5SL6UwcQ) Ч podcast about HTML, CSS, JavaScript, tools, workflow and much more;
+- [ClojureTV](https://www.youtube.com/user/ClojureTV) Ч Clojure;
+- [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg) Ч JavaScript, Node.js, Ember.js, Electron, Browserify;
+- [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) Ч HTML, CSS;
+- [CJ Gammon](https://www.youtube.com/user/cjgammon) Ч Snap.svg, Three.js;
+- [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) Ч Meteor, React.js;
+- [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) Ч game development with JavaScript;
+- [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) Ч weekly, short React screencasts containing tips, tricks and tutorials;
+- [Wes Bos](https://www.youtube.com/user/wesbos) Ч Redux, Markdown, command line, Flexbox, Sublime Text.
+
+### Conferences recordings
+
+- [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
+- [Nordic.js](https://www.youtube.com/user/nordicjs)
+- [Ember.js NYC](https://www.youtube.com/user/EmberNYC)
+- [React Conference](https://www.youtube.com/user/reactconf)
+- [JSConf](https://www.youtube.com/user/jsconfeu)
+- [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg)
+- [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
+- [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
+
+## –усско€зычные каналы
+
+- [Sorax](http://www.youtube.com/user/ArtSorax) Ч основы CSS и JavaScript, обзоры инструментов, подкасты;
+- [Hexlet](https://www.youtube.com/user/HexletUniversity) - курсы по Computer Science, введение в JavaScript, вебинары, подкаст об информатике;
+- [»ль€  антор](https://www.youtube.com/user/iliakan/) - скринкасты по Node.js, Gulp и Webpack;
+- [webtheory](http://www.youtube.com/user/WebTheory) Ч HTML5 и CSS3, CoffeeScript;
+- [Magisters](http://www.youtube.com/user/WebMagistersRu) Ч основы HTML и JavaScript, видеокурс по Bootstrap;
+- [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) Ч уроки по Node.js;
+- [roman01la](https://www.youtube.com/user/roman01la) Ч функциональный JavaScript, ClojureScript, React & Flux, доступность;
+- [Ros Ivanov](http://www.youtube.com/channel/UC-_16EgYOzinLxegLrTMkTA) Ч ЅЁћ, PostCSS, Jade, инструменты;
+- [Moscow Coding School](https://www.youtube.com/channel/UC7AIp8rb_SF6c97GRxpOXGg) Ч курсы JavaScript;
+- [“очка.dev](https://www.youtube.com/channel/UCzgtMBarT8AvsGc-Y_8Qexw/featured) Ч Vue.js;
+- [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) Ч новости, обзоры, всевозможные курсы по HTML, CSS, JavaScript и разным инструментам/библиотекам;
+- [uWebDesign](http://www.youtube.com/user/uwebdesign) Ч CSS, Sass, обзоры инструментов, подкасты;
+- [Procode](http://www.youtube.com/user/easygamedev) Ч HTML5, GameDev;
+- [“ехнострим Mail.Ru Group](http://www.youtube.com/user/TPMGTU) Ч лекции образовательных проектов Mail.ru group;
+- [WebMarik](http://www.youtube.com/user/jquerymobilerussia) Ч jQuery Mobile
+- [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) Ч CSS, HTML, обзоры;
+- [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ) Ч JavaScript, Node.js, Angular, React, Redux, Webpack, Lodash, Git;
+- [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ) Ч HTML, ES6, React, Angular, Flexbox;
+- [WebUpBlog](https://www.youtube.com/channel/UCiw2l9SNahEtu14V7r9XMgg) Ч HTML, CSS, Sass, JavaScript;
+- [Pa Dam Tuts](https://www.youtube.com/user/TheComePot) Ч HTML5 Canvas, CSS;
+- [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g) Ч CSS, Bootstrap, инструменты, переводы англо€зычных видео;
+- [WebDesign Master](https://www.youtube.com/user/agragregra) Ч вЄрстка, обзоры плагинов и инструментов;
+- [Learn Programming](https://www.youtube.com/user/nikitaseverinov) Ч Node.js, HTML5 Canvas, WebGL, Three.js, GameDev.
+
+### «аписи с конференций и митапов
+
+- [яндекс.‘ронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) (+ лекции Ўколы разработки интерфейсов)
+- [¬еб-стандарты](http://www.youtube.com/user/wstdays)
+- [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ)
+- [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A)
+- [404fest](https://www.youtube.com/user/404fest)
+- [TomskJS](https://www.youtube.com/channel/UCwgCp5l9a4bux4VE0S9CCLQ)
+- [FPConf](https://www.youtube.com/channel/UCmiGqOz-jojsWUVXLZJ8mCw)
+- [FrontendDevConf](https://www.youtube.com/channel/UCBaLKdTGUfiHvxWCV8aMAnQ)
+- [4front](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
+- [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
+- [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
+- [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
