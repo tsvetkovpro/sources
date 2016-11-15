@@ -1,15 +1,24 @@
 ## Инструменты для фронт-энд разработки:
 
 
-**Программы**
+**Базовые шаблоны для вёрстки**
 
-- [Настроенный Sublime 3](https://github.com/tsvetkovpro/ide)
+
+- [Базовый шаблон для вёрстки проекта](https://github.com/tsvetkovpro/fast-frontend-II)
 
 - [Стартовый шаблон, для скоростной вёрстки](https://github.com/tsvetkovpro/fast-frontend)
 
-- [Старый стартовый шаблон, система сборки gulp](https://github.com/tsvetkovpro/gulp)
+- [~~Стартовый шаблон, основанный на gulp~~](https://github.com/tsvetkovpro/gulp)
 
 
+<br />
+---
+<br />
+
+
+**IDE**
+
+- [Настроенный Sublime 3](https://github.com/tsvetkovpro/ide)
 
 
 
