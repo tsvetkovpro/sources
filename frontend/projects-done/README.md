@@ -6,7 +6,7 @@
 
 - [Карточки для запоминания](https://bitbucket.org/stasok/flashcard-app) - Создание, редактирование, удаление карточек. Выбор интервала повторений, эмуляция сохранения на сервере / localStorage
 
-- [Список фильмов](https://bitbucket.org/stasok/react-movies) - It features managing collection of movies with search, sorting and pagination. You can add/edit/delete movies, there is client side validation and toast messages.
+- [Список фильмов](https://bitbucket.org/stasok/react-movies) - Управление коллекцией фильмов. Вы можете добавлять/изменять/удалять фильмы, есть пагинация и валидация на клиенте(toast).
 
 - [Гитхаб метки](https://bitbucket.org/stasok/react-oauth) - Получение информации о репозиториях на сайте https://github.com/ и работа с [API](https://developer.github.com/v3/)
 
