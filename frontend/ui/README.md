@@ -2,7 +2,7 @@
 
 <br />
 
-- [Лендинги](https://github.com/tsvetkovpro/landings)
+- [Лендинги](./landings)
 - [Фото галереи](https://github.com/tsvetkovpro/photo-galleries)
 - [Иконки](https://github.com/tsvetkovpro/icons)
 - [Визуализация информации](https://github.com/tsvetkovpro/visualization)
@@ -12,4 +12,4 @@
 <br />
 
 
-#### [Перейти в начало](https://github.com/tsvetkovpro/sources#web-dev)
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources)
