@@ -2,7 +2,7 @@
 
 <br />
 
-- [Удивительный сайт](https://github.com/tsvetkovpro/html-css-website)
+- [Awesome](https://github.com/tsvetkovpro/html-css-website)
 
 - [Arbeitbot](https://github.com/tsvetkovpro/arbeitbot)
 
@@ -10,9 +10,10 @@
 
 - [Landio](https://github.com/tsvetkovpro/Landio)
 
-- []()
+- [Synthetica](https://github.com/tsvetkovpro/Synthetica)
 
-- []()
+- [Portfolio](https://github.com/tsvetkovpro/portfolio)
+
 
 <br />
 ---
