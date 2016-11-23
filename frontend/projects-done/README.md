@@ -12,26 +12,41 @@
 - [Добавление новостей](https://bitbucket.org/stasok/react-simple) - Приложение новостей, в котором можно добавить новость, а так же посмотреть у новости "подробнее".
 
 
+<br />
 ---
 <br />
+
 
 - [**http://l-food.ru/**](https://github.com/tsvetkovpro/l-food) - Лендинг для доставки еды в Оренбурге
 - [**http://blog.l-food.ru/**](https://github.com/tsvetkovpro/l-food-blog) - Блог, для доставки еды в оренбурге
 
+
+<br />
 ---
+<br />
+
 
 - [**Ekey.ru**](https://github.com/tsvetkovpro/ekey) - База данных клиентов компании.
 
+
+<br />
 ---
+<br />
+
 
 - [**Сайт портфолио**](https://github.com/tsvetkovpro/arch) - Лендинг компании Архитек
 
+
+<br />
 ---
+<br />
+
 
 - [**Справочник**](https://github.com/tsvetkovpro/contact-book) - Телефонный справочник организации
 
 
 <br />
+---
 <br />
 
 
