@@ -1,7 +1,7 @@
 ### Frontend
 		
-- [Архив завершенных проектов](./frontend/projects-done)
-- [Компоненты пользовательского интерфейса](./frontend/ui)
+- [Архив проектов](./frontend/projects-done)
+- [Компоненты интерфейса](./frontend/ui)
 - [Инструменты](./frontend/tools)
 - [Ссылки, полезная информация](./frontend/links.md)
 
@@ -13,7 +13,7 @@
 
 - [Примеры приложений](./backend)
 - [Инструменты](./backend/tools)
-- [Ссылки](./backend/links.md)
+- [Ссылки, полезная информация](./backend/links.md)
 
 
 ---
