@@ -20,7 +20,7 @@
 
 
 **to do**
-
+0. blog - [link](https://www.youtube.com/channel/UCQpfDQgPe-b-KadFexdZGXQ/videos)
 1. node-crud-course - [link](https://github.com/scotch-io/node-crud-course)
 2. node-todo - [link](https://github.com/scotch-io/node-todo)
 3. easy-node-authentication - [link](https://github.com/scotch-io/easy-node-authentication)
