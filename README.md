@@ -37,19 +37,13 @@
 - [Archive projects](./backend/archive)
 
 
-
-- [Примеры приложений](./backend)
-
-- [Ссылки, полезная информация](./backend/links.md)
-
-
 ---
 
 
 
 ### Desktop
 
-- [Примеры приложений](./desktop)
+- [Archive projects](./desktop)
 
 
 ---

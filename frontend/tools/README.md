@@ -29,6 +29,7 @@
 
 **Сервисы**
 
+- [Нативные приложения из html, css, js](https://www.npmjs.com/package/nativefier)
 
 - [Сканер безопасности сайта от Mozilla](https://observatory.mozilla.org)
 
@@ -38,7 +39,6 @@
 
 <br />
 ---
-
 
 
 #### [Перейти в начало](https://github.com/tsvetkovpro/sources)
