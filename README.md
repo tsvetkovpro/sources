@@ -1,9 +1,9 @@
 ### Wiki
 
-- [Main page](./wiki)
-- [Html, Css](wiki/Html,-Css)
-- [JavaScript](wiki/JavaScript)
-- [Сommunication](wiki/Сommunication)
+- [Main page](https://github.com/tsvetkovpro/sources/wiki)
+- [Html, Css](https://github.com/tsvetkovpro/sources/wiki/Html,-Css)
+- [JavaScript](https://github.com/tsvetkovpro/sources/wiki/JavaScript)
+- [Сommunication](https://github.com/tsvetkovpro/sources/wiki/%D0%A1ommunication)
 
 
 
