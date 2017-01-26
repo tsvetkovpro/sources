@@ -25,7 +25,6 @@
 
 - [Tools](./frontend/tools)
 
-- [Ссылки, полезная информация](./frontend/links.md)
 
 
 ---
