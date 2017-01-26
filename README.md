@@ -1,19 +1,11 @@
-## Wiki
+### Wiki
+
+- [Main page](./wiki)
+- [Html, Css](wiki/Html,-Css)
+- [JavaScript](wiki/JavaScript)
+- [Сommunication](wiki/Сommunication)
 
 
-
-
-
-
-
-
----
----
----
----
----
----
----
 
 
 
@@ -40,15 +32,6 @@
 ---
 
 
-
-### Desktop
-
-- [Archive projects](./desktop)
-
-
----
-
-
 ### ~~Mobile~~
 
 
@@ -58,9 +41,12 @@
 <br />
 
 
-Стек технологий:
+Динамика запросов в гугле:
 
-![](./stack.png "stack")
+![](./phpjs.jpg "")
+
+
+![](./react.jpg "")
 
 
 <br />
