@@ -19,11 +19,11 @@
 
 ### Frontend
 
+- [Tools](./frontend/tools)
+
 - [Landings](./frontend/ui/landings)
 
 - [Archive projects](./frontend/projects-done)
-
-- [Tools](./frontend/tools)
 
 
 
@@ -33,7 +33,9 @@
 ### Backend
 
 - [Примеры приложений](./backend)
+
 - [Инструменты](./backend/tools)
+
 - [Ссылки, полезная информация](./backend/links.md)
 
 
