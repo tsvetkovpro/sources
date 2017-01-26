@@ -19,9 +19,11 @@
 
 ### Frontend
 
-- [Лендинги](./frontend/ui/landings)
-- [Архив проектов](./frontend/projects-done)
-- [Инструменты](./frontend/tools)
+- [Landings](./frontend/ui/landings)
+
+- [Archive projects](./frontend/projects-done)
+
+- [Tools](./frontend/tools)
 
 - [Ссылки, полезная информация](./frontend/links.md)
 
