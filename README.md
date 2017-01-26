@@ -1,3 +1,5 @@
+## Wiki
+
 
 
 
@@ -16,6 +18,8 @@
 
 
 ### Frontend
+
+- [Лендинги](./frontend/ui/landings)
 		
 - [Архив проектов](./frontend/projects-done)
 - [Компоненты интерфейса](./frontend/ui)
