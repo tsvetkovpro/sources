@@ -6,15 +6,13 @@
 - [Сommunication](https://github.com/tsvetkovpro/sources/wiki/%D0%A1ommunication)
 
 
-
+---
 
 
 ### Frontend
 
 - [Tools](./frontend/tools)
-
 - [Landings](./frontend/ui/landings)
-
 - [Archive projects](./frontend/projects-done)
 
 
@@ -25,7 +23,6 @@
 ### Backend
 
 - [Tools](./backend/tools)
-
 - [Archive projects](./backend/archive)
 
 
