@@ -6,6 +6,7 @@
 
 **Инструменты**
 
+* [Deploy with surge](https://daveceddia.com/deploy-create-react-app-surge/)
 * [Проброс локального сервера за NAT или брандмауэрем в интернет](https://ngrok.com/) 
 
 ---
