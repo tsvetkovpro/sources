@@ -2,6 +2,8 @@
 
 <br />
 
+- [Сильный, минималистичный](https://www.vbout.com)
+
 - [Flexible](https://github.com/tsvetkovpro/Flexible)
 
 - [Back-call](https://github.com/tsvetkovpro/Back-call)
